@@ -1,0 +1,376 @@
+Timestamp,Gender,Location,Age,Qualification_completed,field_of_study,Purpose_for_chilla,Research/Working experience (Float/Int) years,Age (years)-Float/Int,What are you?,Location coordinates (latitude)-Float,Location coordinates (longitude) (float),Blood group ,Which mobile sim do you use,Prepaid or Postpaid,Which PC are you using?,Your Weight in kg? (float),Height in cm? Freelancer- (Float),Do you wear glasses?,When did you write your first line of code?,Your favorite programming language?,Marital Status?,"How many hours you code a day? (int) e.g: 5,4,3",Are you Vaccinated?,Light kitni der band hti hy? int,Where do you live?
+1/4/2022 18:02,Male,Pakistan,36-40,Masters,Natural Sciences,to boost my skill set,5,38,Unemplyed,200,100,B+,U-fone,Prepaid,Apna Laptop,77,179,No,>3 years ago,Python,Yes,3,Yes,2,Urbun
+1/4/2022 18:02,Male,Pakistan,26-30,Bachelors,CS/IT,to boost my skill set,1,25,Student,1.27474774,1.947466474,B+,U-fone,Prepaid,Apna Laptop,53.6,178,No,>3 years ago,Python,No,2,Yes,6,Urbun
+1/4/2022 18:03,Male,Pakistan,31-35,Masters,Enginnering,Switch my field of study,5.5,31.34,Employed,24.884055,67.080608,B+,Zong,Prepaid,Apna Laptop,93,173,Yes,>3 years ago,Python,Yes,2,Yes,0,Urbun
+1/4/2022 18:03,Female,Pakistan,31-35,Masters,CS/IT,to boost my skill set,5,33,Employed,180,180,O+,U-fone,Postpaid,Apna Laptop,60,157,No,<3 years ago,Python,Yes,3,Yes,Pora din,Urbun
+1/4/2022 18:03,Female,Pakistan,26-30,Masters,Enginnering,to boost my skill set,3.5,27,Student,31.0831,72.451,A-,Mobilink,Prepaid,Apna Laptop,59.9,164.544,Yes,In this chilla,Javascript,No,6,Yes,12,Rural
+1/4/2022 18:03,Male,Pakistan,36-40,Masters,Others,Switch my field of study,15,36,Employed,"24.967922693350182, ",67.12256305,B+,Mobilink,Prepaid,Apna Laptop,99,178,Yes,<3 years ago,Javascript,Yes,1,Yes,0,Urbun
+1/4/2022 18:03,Male,Pakistan,21-25,Masters,Enginnering,to boost my skill set,0,0,Student,Nil,Nil,O+,Mobilink,Prepaid,Kisi ka laptop,58,180.34,Yes,In this chilla,Python,No,1,No,2 hours per day,Urbun
+1/4/2022 18:03,Male,West,26-30,Bachelors,CS/IT,to boost my skill set,4,27,Student,50.7738464,6.1122471,AB+,International,Prepaid,Apna Laptop,100,187,No,>3 years ago,Python,Yes,3,Yes,0,International
+1/4/2022 18:03,Male,Pakistan,21-25,Bachelors,CS/IT,to boost my skill set,0.5,22.2,Unemplyed,31.5822,74.3292,O+,Zong,Prepaid,Apna Laptop,76.8,1.75,No,>3 years ago,Python,No,3,Yes,0,Rural
+1/4/2022 18:03,Male,West,21-25,Bachelors,Natural Sciences,to boost my skill set,0.5,24,Student,63.446827,10.421906,B+,Mobilink,Prepaid,Apna Laptop,84,183,No,<3 years ago,Python,No,3,No,0,International
+1/4/2022 18:03,Male,East,21-25,PhD,Natural Sciences,to boost my skill set,3,25,Student,"39.9042?? N, ",116.4074?? E,A+,International,Prepaid,Apna Laptop,78,165,No,In this chilla,Python,No,5,Yes,0,International
+1/4/2022 18:03,Male,Pakistan,26-30,Masters,CS/IT,to boost my skill set,2,27,Unemplyed,33.6844,73.0479,B+,Telenor,Prepaid,Apna Laptop,50,163,No,>3 years ago,Python,No,1,Yes,0,Urbun
+1/4/2022 18:03,Female,West,26-30,Masters,Others,Switch my field of study,3,28,Student,41.87194,12.56738,A+,International,Prepaid,Apna Laptop,64.21,158.496,No,<3 years ago,Python,No,2,Yes,0,International
+1/4/2022 18:03,Male,Pakistan,21-25,Pre-Bachelors,Enginnering,to boost my skill set,1,22.5,Student,33.5651,73.0169,O+,Mobilink,Prepaid,Apna Laptop,63,178.2,No,<3 years ago,Python,No,1,Yes,1,Urbun
+1/4/2022 18:03,Male,Pakistan,21-25,Bachelors,CS/IT,to boost my skill set,2,24,Employed,33.595467,73.021413,A+,U-fone,Prepaid,Apna Laptop,88.2,185,No,>3 years ago,Python,No,4,Yes,2,Urbun
+1/4/2022 18:03,Male,East,21-25,Masters,Biology,to boost my skill set,2.5,25,Student,32.7844291,129.8556916,O+,International,Postpaid,Apna Laptop,68.5,180,Yes,In this chilla,Python,No,2,Yes,0,International
+1/4/2022 18:03,Male,Pakistan,31-35,Masters,CS/IT,to boost my skill set,2,33,Employed,32.713,72.6136,B+,Zong,Postpaid,Apna Laptop,75.8,174,No,>3 years ago,Python,Yes,1,Yes,0,Urbun
+1/4/2022 18:03,Male,Pakistan,31-35,Bachelors,Enginnering,to boost my skill set,5.5,33,Employed,33.71422,73.10047,O+,Mobilink,Prepaid,Apna Laptop,72,164,Yes,>3 years ago,C++,No,4,Yes,0,Urbun
+1/4/2022 18:03,Male,East,26-30,PhD,Enginnering,to boost my skill set,0.6,30,Employed,22.31,114.17,AB+,International,Prepaid,Apna Laptop,74.5,174,No,In this chilla,Python,No,2,Yes,0,International
+1/4/2022 18:03,Male,Pakistan,21-25,Bachelors,Enginnering,to boost my skill set,0,25,Unemplyed,34.0151,71.5249,B+,Zong,Prepaid,Apna Laptop,130,172.72,Yes,In this chilla,Python,No,4,Yes,5,Urbun
+1/4/2022 18:03,Male,Pakistan,31-35,Masters,Enginnering,to boost my skill set,2.5,31,Employed,"30?? 28' 59.99"" N","72?? 34' 59.99"" E",O+,Mobilink,Prepaid,Apna Laptop,72.5,170.18,No,<3 years ago,Python,Yes,3,Yes,3,Rural
+1/4/2022 18:03,Male,Pakistan,31-35,PhD,Enginnering,to boost my skill set,2,33,Employed,12.3 45.1,12.4 23.4,O+,Zong,Postpaid,Apna Laptop,70.2,168,No,In this chilla,Python,Yes,3,Yes,8 hours,Urbun
+1/4/2022 18:03,Male,Pakistan,21-25,Pre-Bachelors,Enginnering,Switch my field of study,0,21,Student,33.9123,72.3148,O+,Zong,Prepaid,Apna Laptop,55,182.88,No,<3 years ago,Python,No,1,Yes,1,Urbun
+1/4/2022 18:03,Female,West,21-25,Bachelors,Biology,Switch my field of study,2,25,Student,38.626759,34.720619,AB+,International,Prepaid,Apna Laptop,69,174,Yes,In this chilla,Python,No,3,Yes,0,International
+1/4/2022 18:04,Male,East,26-30,PhD,Others,to boost my skill set,4.5,30,Student,22.3,15.4,AB+,International,Postpaid,Apna Laptop,65.5,174.5,No,<3 years ago,Python,No,3,Yes,1,International
+1/4/2022 18:04,Male,Pakistan,21-25,Bachelors,Enginnering,Switch my field of study,0,24,Student,32.9328,72.863,B+,Zong,Prepaid,Apna Laptop,83.5,172.72,No,>3 years ago,Python,No,3,Yes,2,Rural
+1/4/2022 18:04,Male,Pakistan,26-30,PhD,Biology,to boost my skill set,9,30,Student,34.025917,71.560135,B+,Zong,Prepaid,Apna Laptop,60,164.59,No,In this chilla,Python,No,3,Yes,9,Rural
+1/4/2022 18:04,Male,Pakistan,21-25,Bachelors,Enginnering,Switch my field of study,3.1,25,Employed,33.5969,73.0528,O+,U-fone,Prepaid,Apna Laptop,69.5,163.2,No,<3 years ago,Python,No,5,Yes,0,Urbun
+1/4/2022 18:04,Male,Pakistan,31-35,Bachelors,CS/IT,to boost my skill set,4,33,Employed,34.0151?? N,71.5249?? E,B+,Mobilink,Postpaid,Apna Laptop,72,177,No,>3 years ago,Python,Yes,1,Yes,0,Urbun
+1/4/2022 18:04,Male,East,31-35,PhD,Biology,Switch my field of study,8.4,33.9,Employed,22.8167,108.316666,O+,International,Prepaid,Apna Laptop,97.5,177,No,In this chilla,Python,No,5,Yes,1,International
+1/4/2022 18:04,Male,East,26-30,PhD,Enginnering,to boost my skill set,6,30,Employed,22.3193,114.1694,AB+,International,Prepaid,Apna Laptop,85,178,No,In this chilla,Python,No,4,Yes,0,International
+1/4/2022 18:04,Male,Pakistan,26-30,Bachelors,Business/Economics,to boost my skill set,1,26,Unemplyed,?€?36.08548176482495,72.45343875,B+,Telenor,Prepaid,Kisi ka laptop,55.5,164,No,In this chilla,Python,No,3,Yes,4,Rural
+1/4/2022 18:04,Female,Pakistan,26-30,Masters,Natural Sciences,to boost my skill set,4,27.9,Student,30.7,72.4,B+,Mobilink,Prepaid,Apna Laptop,60,160,Yes,In this chilla,Python,No,3,Yes,2,Urbun
+1/4/2022 18:04,Male,West,31-35,PhD,Enginnering,to boost my skill set,2,31,Student,36,97,B-,International,Postpaid,Apna Laptop,80,176,Yes,<3 years ago,Python,Yes,3,Yes,0,International
+1/4/2022 18:04,Male,Pakistan,26-30,Bachelors,Enginnering,Switch my field of study,0,29,Student,34.01,71.52,A-,Telenor,Prepaid,Apna Laptop,78,179,No,<3 years ago,Python,No,4,No,4,Urbun
+1/4/2022 18:04,Male,Pakistan,21-25,Pre-Bachelors,CS/IT,to boost my skill set,0,21,Student,30.361723,73.190401,A+,Zong,Prepaid,Apna Laptop,52.5,164.344,No,<3 years ago,Python,No,1,Yes,0,Rural
+1/4/2022 18:04,Male,Pakistan,21-25,Masters,Mathematics,Abhi tak pata nahi,0,23,Employed,22.3,22.56,A-,Telenor,Prepaid,Kisi ka laptop,67,155,No,<3 years ago,C++,No,2,Yes,1,Rural
+1/4/2022 18:04,Male,Pakistan,21-25,Bachelors,Enginnering,Switch my field of study,0.2,24.3,Unemplyed,33.626057,73.071442,AB+,U-fone,Prepaid,Apna Laptop,93.5,177.5,No,<3 years ago,Python,No,2,Yes,2,Urbun
+1/4/2022 18:04,Male,West,26-30,Masters,Biology,to boost my skill set,4.5,28,Student,47.6008,19.3605,B+,International,Prepaid,Apna Laptop,68.3,175.25,No,<3 years ago,R,No,3,Yes,0,International
+1/4/2022 18:04,Male,Pakistan,26-30,Masters,Software Eng.,to boost my skill set,3,26,Employed,33.7715,72.7511,O+,Mobilink,Prepaid,Apna Laptop,96,172,No,>3 years ago,Python,No,6,Yes,2,Urbun
+1/4/2022 18:04,Male,Pakistan,31-35,Bachelors,Enginnering,Switch my field of study,0,31,Employed,31.99987,32.9999,B+,U-fone,Prepaid,Apna Laptop,64,160,No,<3 years ago,Python,Yes,1,Yes,0,Urbun
+1/4/2022 18:04,Male,Pakistan,31-35,Masters,CS/IT,to boost my skill set,14,31,Employed,32.074,72.6861,O+,Mobilink,Postpaid,Apna Laptop,75,165,No,>3 years ago,Python,Yes,3,Yes,1,Rural
+1/4/2022 18:04,Male,Pakistan,31-35,Masters,Enginnering,to boost my skill set,4,33,Employed,33.71,73.01,A+,Mobilink,Postpaid,Apna Laptop,84,183,No,>3 years ago,Python,Yes,3,Yes,2,Urbun
+1/4/2022 18:04,Male,Pakistan,21-25,Pre-Bachelors,CS/IT,to boost my skill set,No,20,Student,Faisalabad,89,A+,Zong,Prepaid,Desktop,75,169,No,<3 years ago,Python,No,2,Yes,No,Urbun
+1/4/2022 18:04,Female,Pakistan,26-30,Masters,Enginnering,to boost my skill set,1.5,26,Unemplyed,24.8607,67.0011,B+,U-fone,Prepaid,Apna Laptop,47,163,Yes,<3 years ago,Python,No,2,Yes,0,Urbun
+1/4/2022 18:04,Male,West,31-35,Masters,Mathematics,to boost my skill set,4,32.75,Employed,53.483959,-2.244644,B+,International,Postpaid,Apna Laptop,72.5,173,No,>3 years ago,Python,Yes,2,Yes,0,Urbun
+1/4/2022 18:04,Female,Pakistan,26-30,Masters,Software Eng.,to boost my skill set,7,28,Employed,32.571144,74.075005,O+,Mobilink,Prepaid,Apna Laptop,50,170.18,No,>3 years ago,Others,No,4,Yes,4,Urbun
+1/4/2022 18:04,Male,West,31-35,Bachelors,Enginnering,Awen,8.5,34,Employed,44.6488?? ,", 63.5752??",A+,International,Postpaid,Apna Laptop,87.5,182,No,In this chilla,Python,Yes,4,Yes,0,International
+1/4/2022 18:04,Male,Pakistan,26-30,Masters,Software Eng.,to boost my skill set,0,29,Unemplyed,33.6043,71.2614,O+,Zong,Prepaid,Apna Laptop,62.5,179.832,No,In this chilla,Others,Yes,2,Yes,8,Urbun
+1/4/2022 18:04,Male,Pakistan,26-30,Masters,Enginnering,to boost my skill set,2,27,Employed,29.35,71.69,B+,Mobilink,Prepaid,Apna Laptop,88.6,600,No,>3 years ago,C++,No,3,Yes,0,Urbun
+1/4/2022 18:04,Male,Pakistan,16-20,Pre-Bachelors,Others,to boost my skill set,0,18,Student,29.12,71.1,B+,Zong,Prepaid,Kisi ka laptop,52,174,Yes,In this chilla,Python,Yes,2,Yes,2,Urbun
+1/4/2022 18:04,Female,Pakistan,26-30,Bachelors,CS/IT,to boost my skill set,2017,28,Unemplyed,Lahore,Lahore,B+,Mobilink,Prepaid,Kisi ka laptop,50,5,No,>3 years ago,C++,Yes,Less than 1 ,Yes,5 hours,Urbun
+1/4/2022 18:04,Male,East,26-30,Bachelors,Software Eng.,to boost my skill set,2.5,26.3,Employed,25.1659??,51.5976??,B+,International,Prepaid,Apna Laptop,71.2,172,No,>3 years ago,Python,No,1,Yes,0,Urbun
+1/4/2022 18:04,Male,Pakistan,21-25,Masters,Enginnering,Switch my field of study,2.5,25,Employed,31.4504??,73.1350??,A+,Mobilink,Prepaid,Apna Laptop,60,177.8,No,>3 years ago,Others,No,1,Yes,0,Rural
+1/4/2022 18:04,Male,Pakistan,36-40,Masters,Natural Sciences,to boost my skill set,12,36,Employed,31.14,72.69,A+,U-fone,Prepaid,Apna Laptop,100.5,180.5,No,>3 years ago,Python,Yes,2,Yes,2,Urbun
+1/4/2022 18:04,Male,Pakistan,36-40,Masters,Business/Economics,Switch my field of study,5,38,Student,31.5204,74.3587,B-,Mobilink,Prepaid,Apna Laptop,93.9,177.8,No,<3 years ago,Python,No,4,Yes,1,Urbun
+1/4/2022 18:04,Male,Pakistan,31-35,Masters,Natural Sciences,to boost my skill set,9.5,35,Employed,33.3,70.5,A+,Zong,Prepaid,Apna Laptop,78.9,170,No,<3 years ago,SQL,Yes,1,Yes,1,Urbun
+1/4/2022 18:04,Female,West,31-35,Masters,Enginnering,to boost my skill set,6,32,Student,Germany ,50,B+,International,Prepaid,Apna Laptop,60,156,Yes,<3 years ago,Python,Yes,1,Yes,0,International
+1/4/2022 18:04,Male,Pakistan,31-35,Masters,CS/IT,Switch my field of study,4.5,32,Employed,27.2046,77.4977,A+,U-fone,Postpaid,Apna Laptop,70,170,No,<3 years ago,Python,Yes,4,Yes,2,Urbun
+1/4/2022 18:04,Male,Pakistan,26-30,Masters,Enginnering,to boost my skill set,2,26.5,Employed,33.74,72.83,B+,U-fone,Postpaid,Apna Laptop,65,175,No,<3 years ago,Python,No,3,Yes,2,Urbun
+1/4/2022 18:04,Male,Pakistan,21-25,Pre-Bachelors,CS/IT,to boost my skill set,0,21,Student,24.7475?? ,67.9106?? ,O+,Mobilink,Prepaid,Apna Laptop,63.5,173,No,>3 years ago,Python,No,3,Yes,8,Rural
+1/4/2022 18:04,Male,Pakistan,31-35,PhD,Enginnering,to boost my skill set,5,33,Employed,Taxila,Taxila,O+,U-fone,Prepaid,Apna Laptop,82,175,Yes,>3 years ago,Python,Yes,2,Yes,2,Urbun
+1/4/2022 18:04,Male,Pakistan,21-25,Bachelors,Enginnering,Awen,3.5,25,Employed,31.582045,74.329376,B+,Mobilink,Prepaid,Apna Laptop,105.5,5.7,Yes,In this chilla,Python,Yes,4,Yes,0,Urbun
+1/4/2022 18:04,Male,Pakistan,26-30,Masters,Enginnering,to boost my skill set,2.5,27.75,Employed,31.52037,74.358749,A+,Mobilink,Postpaid,Apna Laptop,85.6,165,Yes,<3 years ago,Python,No,4,Yes,4,Urbun
+1/4/2022 18:04,Male,Pakistan,26-30,Bachelors,Enginnering,Switch my field of study,2,26,Unemplyed,31.5204,74.3587,B+,U-fone,Prepaid,Apna Laptop,89,157,Yes,>3 years ago,Python,No,3,Yes,1,Urbun
+1/4/2022 18:04,Female,Pakistan,26-30,PhD,CS/IT,to boost my skill set,4 years,30,Employed,Islamabad,Islamabad,B+,U-fone,Prepaid,Apna Laptop,80,5.7,No,<3 years ago,Python,Yes,2,Yes,Friday jati bas Pura din 2 bjy tak,Urbun
+1/4/2022 18:04,Male,Pakistan,26-30,Masters,Software Eng.,to boost my skill set,5,28,Employed,30.3753,69.3451,A+,Mobilink,Prepaid,Apna Laptop,100,169,No,>3 years ago,Python,Yes,9,Yes,3,Urbun
+1/4/2022 18:04,Male,Pakistan,16-20,Pre-Bachelors,CS/IT,to boost my skill set,0.5,19.5,Student,28.41987,70.30345,O+,Mobilink,Prepaid,Apna Laptop,52,170.688,No,<3 years ago,Python,No,4,Yes,0,Urbun
+1/4/2022 18:04,Male,Pakistan,26-30,Masters,Enginnering,to boost my skill set,3,29.8,Employed,33.738045,73.084488,O+,Telenor,Prepaid,Apna Laptop,75.4,172.3,Yes,>3 years ago,Python,Yes,3,Yes,0,Urbun
+1/4/2022 18:04,Male,Pakistan,21-25,Pre-Bachelors,CS/IT,to boost my skill set,0,21,Student,34.9526,72.3311,AB+,Mobilink,Prepaid,Apna Laptop,50,1.73,No,<3 years ago,Python,No,2,Yes,2,Rural
+1/4/2022 18:04,Female,Pakistan,31-35,Masters,Others,Switch my field of study,7.5,33,Employed,24.9298,67.1148,B+,Telenor,Prepaid,Apna Laptop,98,157.48,No,>3 years ago,Python,No,2-Jan,Yes,1,Urbun
+1/4/2022 18:04,Male,Pakistan,31-35,Masters,Natural Sciences,to boost my skill set,7,35,Employed,32.18,74.19,B+,U-fone,Prepaid,Apna Laptop,75.5,170.5,No,>3 years ago,Python,Yes,2,Yes,0,Urbun
+1/4/2022 18:04,Female,Pakistan,36-40,Bachelors,CS/IT,to boost my skill set,0,39,Unemplyed,31.582045,74.329673,O+,U-fone,Postpaid,Apna Laptop,71,160,Yes,>3 years ago,Python,Yes,1,Yes,0,Urbun
+1/4/2022 18:04,Male,Pakistan,26-30,Masters,Biology,to boost my skill set,4,28,Student,27.2046,77.4977,B+,U-fone,Prepaid,Apna Laptop,78.5,176,Yes,In this chilla,Python,No,3,Yes,0,Urbun
+1/4/2022 18:04,Male,Pakistan,26-30,Bachelors,Enginnering,to boost my skill set,3,29,Employed,34.1688,73.2215,B+,Zong,Prepaid,Apna Laptop,88.2,178,No,>3 years ago,Python,No,3,Yes,2,Urbun
+1/4/2022 18:04,Male,Pakistan,31-35,Masters,Natural Sciences,to boost my skill set,10.2,32.2,Employed,32.593021,73.5005,O-,U-fone,Prepaid,Apna Laptop,70.2,175.2,No,In this chilla,Python,Yes,3,Yes,6,Urbun
+1/4/2022 18:04,Female,Pakistan,21-25,Bachelors,Enginnering,to boost my skill set,0,23.99,Unemplyed,31.7292,72.9822,O+,U-fone,Prepaid,Apna Laptop,57.5,162.8,Yes,>3 years ago,C++,No,8,Yes,4,Urbun
+1/4/2022 18:04,Female,Pakistan,21-25,Masters,Software Eng.,to boost my skill set,1,24.6,Student,17.38714,78.491684,A-,U-fone,Prepaid,Apna Laptop,63.4,5.5,Yes,>3 years ago,Javascript,No,3,Yes,6,Rural
+1/4/2022 18:04,Male,Pakistan,21-25,Bachelors,Enginnering,to boost my skill set,1,25,Employed,27.2,77.49,O+,Telenor,Prepaid,Apna Laptop,62,184.3,No,>3 years ago,Python,No,1,Yes,2,Urbun
+1/4/2022 18:05,Male,Pakistan,16-20,Pre-Bachelors,Natural Sciences,to boost my skill set,1,20,Student,27.2046,77.4977,B+,Mobilink,Prepaid,Apna Laptop,64,166,No,<3 years ago,Python,No,3,Yes,4,Rural
+1/4/2022 18:05,Male,Pakistan,21-25,Masters,Natural Sciences,to boost my skill set,0,0,Student,"34.0086?? N, 71.4878?? E","33.9922?? N, 71.4982?? E",AB+,Telenor,Prepaid,Apna Laptop,68,176.8,No,In this chilla,Python,No,1,Yes,22,Rural
+1/4/2022 18:05,Male,Pakistan,21-25,Pre-Bachelors,CS/IT,to boost my skill set,0,22,Student,32.166351,74.1959,AB-,Zong,Prepaid,Apna Laptop,68.5,164.592,Yes,>3 years ago,Python,No,2,Yes,1,Rural
+1/4/2022 18:05,Male,Pakistan,26-30,Bachelors,Biology,to boost my skill set,2,26,Student,31.582045,74.329376,O+,Mobilink,Prepaid,Apna Laptop,69,164.5,Yes,In this chilla,Python,No,2,Yes,1,Urbun
+1/4/2022 18:05,Male,Pakistan,26-30,Masters,Software Eng.,to boost my skill set,3.5,27.9,Employed,33.650027,72.9762926,O+,U-fone,Prepaid,Apna Laptop,63.5,182,No,>3 years ago,Python,No,6,Yes,0,Urbun
+1/4/2022 18:05,Male,Pakistan,16-20,Pre-Bachelors,CS/IT,to boost my skill set,0,18,Student,25.0121?? N,67.0390?? E,O+,Telenor,Prepaid,Apna Laptop,57.4,173.736,No,<3 years ago,Python,No,3,No,0,Urbun
+1/4/2022 18:05,Female,Pakistan,21-25,Bachelors,Enginnering,to boost my skill set,1,24,Unemplyed,25.3924,68.3737,AB+,U-fone,Prepaid,Apna Laptop,43,152.4,No,In this chilla,Python,No,3,Yes,8,Urbun
+1/4/2022 18:05,Male,Pakistan,21-25,Bachelors,Others,to boost my skill set,0,25,Employed,30.5511,72.1357,O+,Mobilink,Prepaid,Apna Laptop,75,166.5,Yes,<3 years ago,Python,No,4,Yes,5,Rural
+1/4/2022 18:05,Male,Pakistan,16-20,Bachelors,CS/IT,to boost my skill set,2,19,Student,33.52,73.04,O+,Mobilink,Prepaid,Apna Laptop,50,180.34,Yes,<3 years ago,Python,No,3,Yes,0,Urbun
+1/4/2022 18:05,Male,Pakistan,26-30,Masters,CS/IT,to boost my skill set,8,30.4,Employed,30.6679048,73.1242932,O+,Mobilink,Prepaid,Apna Laptop,88,177.8,No,>3 years ago,Python,No,5,Yes,3,Urbun
+1/4/2022 18:05,Female,Pakistan,21-25,Bachelors,Natural Sciences,to boost my skill set,O,22,Student,31.52,75.4,O+,Mobilink,Prepaid,Apna Laptop,39.5,155.8,Yes,In this chilla,Python,No,5,Yes,3,Urbun
+1/4/2022 18:05,Male,Pakistan,31-35,Bachelors,Enginnering,to boost my skill set,7.5,32,Employed,NA,NA,B+,U-fone,Prepaid,Apna Laptop,72,170,No,In this chilla,Python,Yes,2,Yes,4,Urbun
+1/4/2022 18:05,Male,Pakistan,31-35,Masters,Enginnering,Switch my field of study,8,31,Employed,24.86,67,A+,U-fone,Prepaid,Apna Laptop,98,177.8,No,<3 years ago,Python,No,2,Yes,0,Urbun
+1/4/2022 18:05,Male,Pakistan,26-30,Bachelors,CS/IT,to boost my skill set,4,28,Employed,31.52,74.35,B+,Mobilink,Prepaid,Apna Laptop,79,5.11,No,>3 years ago,Python,Yes,0,Yes,0,Urbun
+1/4/2022 18:05,Male,Pakistan,26-30,Masters,Biology,to boost my skill set,5,27,Student,35.2227,72.4258,O+,Telenor,Prepaid,Apna Laptop,55.5,176.7,No,>3 years ago,Python,No,1,Yes,0,Rural
+1/4/2022 18:05,Male,West,26-30,Masters,Natural Sciences,to boost my skill set,1.2,28.11,Student,40.12 N,9.0 E,A+,International,Prepaid,Apna Laptop,68.3,175.1,No,<3 years ago,Python,No,5,No,0,International
+1/4/2022 18:05,Male,Pakistan,31-35,Masters,Enginnering,to boost my skill set,4.5,32.8,Employed,24.904577,67.187405,A+,Mobilink,Prepaid,Desktop,88.4,180.34,Yes,In this chilla,C++,Yes,2,Yes,0,Urbun
+1/4/2022 18:05,Male,Pakistan,21-25,Bachelors,CS/IT,Switch my field of study,0,25,Student,31.5204,74.358,B+,U-fone,Prepaid,Apna Laptop,84,174,Yes,>3 years ago,Python,No,1,Yes,4,Urbun
+1/4/2022 18:05,Male,Pakistan,26-30,Masters,Enginnering,Switch my field of study,1.5,26.5,Student,33.5721,73.149,O+,U-fone,Postpaid,Desktop,82.5,160.02,Yes,In this chilla,Python,No,5,Yes,0,Urbun
+1/4/2022 18:05,Male,Pakistan,41-45,Masters,Natural Sciences,Abhi tak pata nahi,2,40,Employed,31.5204,74.3587,O+,Mobilink,Prepaid,Apna Laptop,83.5,175.5,No,<3 years ago,Python,Yes,1,Yes,3,Urbun
+1/4/2022 18:05,Male,Pakistan,41-45,Masters,Natural Sciences,to boost my skill set,17,42,Employed,35.57424,73.12677,O+,Mobilink,Postpaid,Apna Laptop,90,179,Yes,In this chilla,Others,Yes,1,Yes,20,Urbun
+1/4/2022 18:05,Male,West,26-30,Masters,Natural Sciences,to boost my skill set,2.5,29,Student,59.6864,10.793,B+,International,Postpaid,Apna Laptop,77.5,171.5,No,<3 years ago,Python,Yes,2,Yes,0,International
+1/4/2022 18:05,Male,Pakistan,21-25,Bachelors,CS/IT,to boost my skill set,0,90,Unemplyed,30.46,70.96,AB+,Mobilink,Prepaid,Apna Laptop,90,1.4,No,In this chilla,Python,No,4,Yes,5,Rural
+1/4/2022 18:05,Male,Pakistan,21-25,Bachelors,Enginnering,to boost my skill set,1.5 years,23,Unemplyed,zyx,xyz,O+,Telenor,Prepaid,Apna Laptop,67.9,17,Yes,>3 years ago,C++,No,1.5,Yes,nahi jati Alhamdulillah,Urbun
+1/4/2022 18:05,Male,Pakistan,21-25,Pre-Bachelors,Software Eng.,to boost my skill set,0,21,Student,32.564958,74.074111,A-,Zong,Prepaid,Apna Laptop,71.5,170.688,Yes,>3 years ago,Javascript,No,6,Yes,4,Urbun
+1/4/2022 18:05,Male,Pakistan,21-25,Bachelors,Enginnering,to boost my skill set,0.6,25,Student,24.611198,46.388911,O+,International,Prepaid,Apna Laptop,76,176,Yes,<3 years ago,Python,No,1,Yes,0,International
+1/4/2022 18:05,Male,Pakistan,16-20,Pre-Bachelors,Enginnering,Switch my field of study,0,20,Employed,33.7827249,72.7270802,A+,Mobilink,Prepaid,Desktop,48.0 Kg,155.0 Cm,No,In this chilla,Python,No,2,Yes,0,Urbun
+1/4/2022 18:05,Male,Pakistan,26-30,Bachelors,CS/IT,to boost my skill set,3.5,26.11,Employed,34.3313??,73.1980??,B+,Zong,Prepaid,Apna Laptop,76,60.6,No,>3 years ago,Python,No,4,Yes,3,Urbun
+1/4/2022 18:05,Female,Pakistan,21-25,Masters,Biology,to boost my skill set,1.5,24,Student,14.6,10.3,AB+,Mobilink,Prepaid,Apna Laptop,42.6,40.3,Yes,In this chilla,Python,No,5,Yes,5,Urbun
+1/4/2022 18:05,Female,Pakistan,41-45,Masters,Enginnering,to boost my skill set,4,43,Employed,27,77,B+,Mobilink,Prepaid,Apna Laptop,70,1615,Yes,>3 years ago,C++,Yes,1,Yes,4,Rural
+1/4/2022 18:05,Female,Pakistan,21-25,Bachelors,Enginnering,to boost my skill set,3,24,Employed,17.38714,78.491684,O+,Mobilink,Prepaid,Apna Laptop,48,152.4,Yes,In this chilla,Python,No,4,Yes,12,Urbun
+1/4/2022 18:05,Male,Pakistan,21-25,Bachelors,Enginnering,to boost my skill set,1.5,22.6,Student,35.2227,72.4258,A+,Telenor,Prepaid,Apna Laptop,67.4,172,No,>3 years ago,Python,No,3,Yes,12:00,Urbun
+1/4/2022 18:05,Male,Pakistan,26-30,Bachelors,Enginnering,to boost my skill set,2,27,Unemplyed,34.1682,71.7504,B+,Zong,Prepaid,Apna Laptop,54,165,No,>3 years ago,Python,No,1,Yes,8,Urbun
+1/4/2022 18:05,Male,Pakistan,21-25,Bachelors,Enginnering,Switch my field of study,1,24,Student,31.579646,74.354349,B+,U-fone,Prepaid,Apna Laptop,60.5,179.832,No,In this chilla,Python,No,2,Yes,0,Rural
+1/4/2022 18:05,Male,East,26-30,PhD,Business/Economics,to boost my skill set,4,27,Student,34.24140488,108.9749747,A+,International,Prepaid,Desktop,104.5,1.73,Yes,In this chilla,Python,Yes,2,Yes,0,International
+1/4/2022 18:05,Female,Pakistan,26-30,Masters,Enginnering,to boost my skill set,1,26,Unemplyed,30.3,73.3,B+,Telenor,Prepaid,Apna Laptop,55,154,Yes,In this chilla,Javascript,No,3,Yes,5,Rural
+1/4/2022 18:05,Male,Pakistan,26-30,Masters,Enginnering,to boost my skill set,6.5,29.25,Student,32.08,72.69,O-,Mobilink,Postpaid,Apna Laptop,93.5,168.5,No,>3 years ago,Python,Yes,3,Yes,1,Urbun
+1/4/2022 18:05,Male,Pakistan,26-30,Masters,Biology,to boost my skill set,2.5,26,Student,33.6938118,73.0651511,A+,U-fone,Prepaid,Apna Laptop,106.05,177.78,Yes,In this chilla,Python,No,2,Yes,0,Urbun
+1/4/2022 18:05,Male,Pakistan,41-45,Masters,Natural Sciences,to boost my skill set,13,41,Employed,33.5651,73.0169,B+,U-fone,Prepaid,Kisi ka laptop,97,164.592,No,>3 years ago,Others,Yes,4,Yes,1,Rural
+1/4/2022 18:05,Male,Pakistan,36-40,PhD,Enginnering,to boost my skill set,10,37,Unemplyed,30.791,72.2393,O+,Mobilink,Prepaid,Apna Laptop,77,167.64,Yes,>3 years ago,Python,Yes,2,Yes,2,Rural
+1/4/2022 18:05,Male,Pakistan,26-30,Masters,Mathematics,Switch my field of study,3.8,30,Student,31.573819,74.379855,B+,Mobilink,Prepaid,Apna Laptop,79.5,5.9,No,>3 years ago,Python,Yes,2,Yes,1,Rural
+1/4/2022 18:05,Male,Pakistan,26-30,Masters,Enginnering,to boost my skill set,5,29,Employed,34.03,73.14,B+,Zong,Prepaid,Apna Laptop,80,180,Yes,<3 years ago,Python,No,3,Yes,0,Rural
+1/4/2022 18:05,Male,Pakistan,26-30,Bachelors,Enginnering,Switch my field of study,1,29,Employed,24.860735,67.001137,AB+,Mobilink,Prepaid,Apna Laptop,74,182.88,No,>3 years ago,Python,No,2,Yes,3,Urbun
+1/4/2022 18:05,Male,Pakistan,36-40,Pre-Bachelors,Others,Abhi tak pata nahi,0,don't understand,Unemplyed,karachi,karachi,O+,Mobilink,Prepaid,Desktop,75,5.6,Yes,In this chilla,Python,Yes,0.01,No,0,Urbun
+1/4/2022 18:05,Male,Pakistan,26-30,Masters,Natural Sciences,Switch my field of study,1,29,Unemplyed,34.1448298,73.2142212,B+,Zong,Postpaid,Apna Laptop,75.6,155.4,No,In this chilla,Python,Yes,2,Yes,1,Urbun
+1/4/2022 18:05,Male,West,41-45,Masters,CS/IT,to boost my skill set,20,43,Employed,16.9228,42.5584,B+,International,Prepaid,Apna Laptop,82.5,182.5,Yes,>3 years ago,Others,Yes,1,Yes,0,International
+1/4/2022 18:05,Male,Pakistan,41-45,Masters,CS/IT,to boost my skill set,20.5,44.8,Employed,33.5834311,73.035718,B+,Mobilink,Prepaid,Apna Laptop,70.5,1.76,Yes,<3 years ago,Python,Yes,1,Yes,3,Urbun
+1/4/2022 18:05,Female,Pakistan,26-30,Masters,Others,Switch my field of study,image classification and segmentation,27.5,Student,1,1,B+,Telenor,Prepaid,Apna Laptop,56,5.4,No,In this chilla,Python,No,3,Yes,4,Rural
+1/4/2022 18:05,Male,Pakistan,21-25,Bachelors,CS/IT,to boost my skill set,0,25,Student,30.9709,72.4826,B+,Mobilink,Prepaid,Apna Laptop,86,174,No,>3 years ago,Python,No,3,Yes,2,Rural
+1/4/2022 18:05,Female,Pakistan,21-25,Bachelors,Software Eng.,to boost my skill set,0,23,Unemplyed,29.418068,71.670685,AB+,Telenor,Prepaid,Apna Laptop,41.2,12.446,No,>3 years ago,Python,No,2,Yes,2,Rural
+1/4/2022 18:05,Male,Pakistan,26-30,Bachelors,Enginnering,to boost my skill set,1.3,30,Unemplyed,33.5651,73.0169,B+,Mobilink,Prepaid,Kisi ka laptop,61,169,Yes,>3 years ago,Python,No,5,Yes,",1",Urbun
+1/4/2022 18:05,Male,Pakistan,21-25,Pre-Bachelors,Enginnering,Awen,0,21,Student,33.5651,73.0169,O+,Mobilink,Prepaid,Apna Laptop,59,163.5,No,<3 years ago,C++,No,1,Yes,2,Urbun
+1/4/2022 18:05,Male,Pakistan,26-30,Masters,Enginnering,to boost my skill set,1,26,Employed,34.8669,71.9537,O+,Telenor,Prepaid,Apna Laptop,75.5,182.28,No,<3 years ago,Python,Yes,2,Yes,3,Rural
+1/4/2022 18:05,Male,Pakistan,26-30,Masters,Enginnering,to boost my skill set,1,27,Student,37.5,23.5,AB+,Zong,Prepaid,Apna Laptop,61.5,45.5,No,In this chilla,Python,No,4,Yes,5,Urbun
+1/4/2022 18:05,Male,Pakistan,36-40,Masters,CS/IT,to boost my skill set,No,39.5,Employed,455678.45,456785.67,O+,U-fone,Prepaid,Apna Laptop,54.3,44.5,Yes,In this chilla,Python,Yes,3,Yes,5,International
+1/4/2022 18:05,Male,Pakistan,31-35,PhD,Natural Sciences,to boost my skill set,1.5,30.5,Unemplyed,31.418715,73.079109,O+,Mobilink,Prepaid,Apna Laptop,89.5,155.44,No,In this chilla,Python,No,4,Yes,2,Urbun
+1/4/2022 18:05,Male,Pakistan,31-35,Bachelors,CS/IT,to boost my skill set,2,2,Employed,31.4696,74.2728,AB-,Zong,Prepaid,Apna Laptop,70,64,No,<3 years ago,Python,No,1,Yes,0,Urbun
+1/4/2022 18:05,Male,West,16-20,Pre-Bachelors,Mathematics,to boost my skill set,0,19,Student,27.563993,68.215134,O+,Zong,Prepaid,Apna Laptop,55.2,167.64,No,In this chilla,Python,No,8,Yes,8,Rural
+1/4/2022 18:05,Female,East,26-30,Masters,Business/Economics,Switch my field of study,2.3,30,Student,4.2105,101.97,B-,International,Prepaid,Apna Laptop,56.9,165,Yes,In this chilla,Python,No,4,Yes,0,International
+1/4/2022 18:05,Male,Pakistan,26-30,Masters,CS/IT,to boost my skill set,0,29,Unemplyed,Pakistan,Pakistan,B-,Mobilink,Prepaid,Apna Laptop,69,0,No,In this chilla,Python,No,5,Yes,0,Urbun
+1/4/2022 18:05,Female,Pakistan,26-30,Masters,Biology,to boost my skill set,5.9,29,Student,67,24.8,AB+,Mobilink,Prepaid,Apna Laptop,56.5,170.688,Yes,In this chilla,Python,No,4,Yes,0,Urbun
+1/4/2022 18:05,Female,Pakistan,26-30,Masters,Mathematics,to boost my skill set,2 years,29,Student,33.783184,72.723076,A+,Telenor,Prepaid,Apna Laptop,50.2,173.7,No,<3 years ago,Python,No,1 hour,Yes,0,Urbun
+1/4/2022 18:05,Male,West,21-25,Bachelors,Enginnering,to boost my skill set,2,25,Student,53.1435,8.2146,B+,International,Prepaid,Apna Laptop,52.27,171.5,No,>3 years ago,Python,No,7,Yes,24,International
+1/4/2022 18:05,Male,Pakistan,31-35,Bachelors,CS/IT,Switch my field of study,No,Int,Student,23,25,O+,Telenor,Prepaid,Apna Laptop,60,32,No,<3 years ago,Python,Yes,3,Yes,2,Rural
+1/4/2022 18:06,Male,Pakistan,26-30,PhD,Mathematics,Switch my field of study,4,27,Student,33.73,73.08,B+,Zong,Prepaid,Apna Laptop,65.21,1.74,Yes,>3 years ago,Python,Yes,5,Yes,7,Urbun
+1/4/2022 18:06,Male,Pakistan,21-25,Masters,Biology,to boost my skill set,2,24,Unemplyed,"35.0727960,",72.4271291,B+,Telenor,Prepaid,Apna Laptop,54,5.6,Yes,In this chilla,Python,No,1,Yes,2-3 hrs,Urbun
+1/4/2022 18:06,Male,Pakistan,21-25,Bachelors,Enginnering,Switch my field of study,0,24,Student,30.37532,69.345116,A+,Zong,Prepaid,Apna Laptop,65,170.18,No,In this chilla,Python,No,2,Yes,1,Urbun
+1/4/2022 18:06,Male,Pakistan,26-30,Bachelors,Enginnering,to boost my skill set,2,26,Employed,31.54,74.34,O+,Mobilink,Prepaid,Apna Laptop,68,161.544,No,>3 years ago,Python,No,2,Yes,18,Rural
+1/4/2022 18:06,Male,Pakistan,21-25,Masters,Enginnering,to boost my skill set,1,25,Unemplyed,33.626057,73.071442,O+,Mobilink,Prepaid,Apna Laptop,68,167.64,Yes,<3 years ago,Python,No,3,Yes,0,Rural
+1/4/2022 18:06,Male,Pakistan,31-35,PhD,Others,to boost my skill set,5.5,31.2,Employed,34.0151,71.5249,B+,Zong,Prepaid,Apna Laptop,72,162,No,In this chilla,Python,Yes,1,Yes,8 hours,Urbun
+1/4/2022 18:06,Male,Pakistan,46-60,Bachelors,CS/IT,to boost my skill set,20,51,Unemplyed,24.8607 N,67.0011 E,O+,Mobilink,Prepaid,Apna Laptop,70.5,170.18,No,<3 years ago,Python,Yes,4,No,0,Urbun
+1/4/2022 18:06,Female,Pakistan,26-30,Masters,Enginnering,Switch my field of study,5,28,Employed,G8H6,5R,AB+,U-fone,Prepaid,Apna Laptop,46,162.56,Yes,<3 years ago,Python,No,2,Yes,2,Urbun
+1/4/2022 18:06,Male,West,31-35,Masters,Business/Economics,to boost my skill set,8.5,34.25,Employed,42.042297,-87.88932,O+,International,Postpaid,Apna Laptop,82.27,177,No,<3 years ago,Python,Yes,3,Yes,0,International
+1/4/2022 18:06,Female,West,26-30,Masters,Others,Switch my field of study,nil,27,Unemplyed,don't know,don't know,A+,Zong,Prepaid,Kisi ka laptop,57,don not know,No,In this chilla,Others,Yes,4,Yes,0,International
+1/4/2022 18:06,Male,Pakistan,31-35,Masters,Enginnering,to boost my skill set,5,33,Unemplyed,34.20004,72.03998,A-,U-fone,Prepaid,Apna Laptop,101.5,179,Yes,<3 years ago,R,Yes,1,Yes,8,Rural
+1/4/2022 18:06,Male,Pakistan,21-25,Masters,CS/IT,to boost my skill set,Int 2,Float 23.5,Employed,34.015137,71.524918,A+,Mobilink,Prepaid,Apna Laptop,Float 94.5,6.1,No,>3 years ago,Python,No,Into 5,Yes,Int 1,Urbun
+1/4/2022 18:06,Male,Pakistan,26-30,Masters,Enginnering,to boost my skill set,4.5,26,Employed,27.2046,77.4977,B+,Mobilink,Postpaid,Apna Laptop,86.5,185.92,Yes,<3 years ago,Python,Yes,1,Yes,1,Urbun
+1/4/2022 18:06,Female,Pakistan,31-35,PhD,Biology,to boost my skill set,0.5,31.8,Unemplyed,34.3313?? N,73.1980?? E,B+,U-fone,Prepaid,Apna Laptop,65.5,167.64,No,In this chilla,Python,No,4,Yes,3,Urbun
+1/4/2022 18:06,Female,Pakistan,21-25,Bachelors,Natural Sciences,to boost my skill set,0,23,Unemplyed,24.95,67.002068,A+,Telenor,Prepaid,Apna Laptop,62,173.736,No,In this chilla,Python,No,8,No,6,Urbun
+1/4/2022 18:06,Female,Pakistan,21-25,Bachelors,Biology,Switch my field of study,2,25,Student,31.5204,74.3587,A+,Zong,Prepaid,Apna Laptop,43,154.6,Yes,In this chilla,Python,No,4,Yes,3,Urbun
+1/4/2022 18:06,Male,Pakistan,26-30,Masters,Enginnering,to boost my skill set,2,27,Student,24.740065,69.80043,B+,U-fone,Postpaid,Apna Laptop,63.5,175.5,No,In this chilla,Python,No,4,Yes,4,Rural
+1/4/2022 18:06,Female,Pakistan,26-30,Bachelors,Software Eng.,to boost my skill set,2.5,28.1,Student,25.3960?? ,"N, 68.3578?? E",B+,Zong,Prepaid,Apna Laptop,60.5,167.64,Yes,>3 years ago,Python,No,3,Yes,6,Urbun
+1/4/2022 18:06,Male,Pakistan,21-25,Pre-Bachelors,CS/IT,to boost my skill set,0,21,Student,33.684422,73.047882,B+,Mobilink,Prepaid,Desktop,50,164,Yes,<3 years ago,Python,No,1,Yes,0,Urbun
+1/4/2022 18:06,Male,Pakistan,26-30,Masters,Software Eng.,to boost my skill set,1,28,Employed,29.6,73.14,A+,Zong,Prepaid,Apna Laptop,75,170,No,>3 years ago,Python,Yes,2,Yes,1,Urbun
+1/4/2022 18:06,Male,Pakistan,26-30,Masters,Natural Sciences,to boost my skill set,2,25,Unemplyed,"31.5204?? N, ",74.3587?? E,B+,Mobilink,Prepaid,Apna Laptop,67,171,Yes,<3 years ago,Python,No,2,Yes,2,Urbun
+1/4/2022 18:06,Male,Pakistan,21-25,Pre-Bachelors,Enginnering,Abhi tak pata nahi,0,21.6,Student,24.942986,67.112179,B+,Telenor,Prepaid,Apna Laptop,68.5,173.5,No,In this chilla,Python,No,3,Yes,0,Urbun
+1/4/2022 18:06,Male,Pakistan,21-25,Bachelors,Natural Sciences,to boost my skill set,0.5,22,Student,34,72,B+,Zong,Prepaid,Desktop,60kg,173.7cm,Yes,<3 years ago,Python,No,2,No,2,Rural
+1/4/2022 18:06,Male,West,31-35,Masters,Enginnering,Switch my field of study,6,31.5,Student,50.110924,8.682127,B+,International,Postpaid,Apna Laptop,71.5,167.1,No,<3 years ago,Python,No,2,Yes,0,International
+1/4/2022 18:06,Male,Pakistan,31-35,Masters,Natural Sciences,Abhi tak pata nahi,6,32,Student,33.1105??,71.0914?? E,B-,Zong,Prepaid,Apna Laptop,74,173,No,In this chilla,Julia,No,6,Yes,23 hrs,Rural
+1/4/2022 18:06,Male,India,21-25,Masters,CS/IT,Switch my field of study,2022,24,Student,Lucknow,Lucknow,O+,Mobilink,Prepaid,Apna Laptop,55,168,No,In this chilla,Python,No,5,Yes,1,Rural
+1/4/2022 18:06,Male,Pakistan,26-30,Masters,Enginnering,to boost my skill set,7,28,Employed,71,34,O+,Telenor,Prepaid,Apna Laptop,70,178,Yes,In this chilla,R,Yes,4,Yes,3,Rural
+1/4/2022 18:06,Male,Pakistan,26-30,Bachelors,CS/IT,to boost my skill set,0,27,Student,32.1877,74.1945,A+,Mobilink,Prepaid,Desktop,72,170.688,No,>3 years ago,Python,No,5,Yes,2,Rural
+1/4/2022 18:06,Male,West,26-30,Bachelors,Enginnering,Switch my field of study,3,28,Student,40.1859259,29.0807998,B+,International,Prepaid,Apna Laptop,70,180,No,<3 years ago,Python,No,1,Yes,0,International
+1/4/2022 18:06,Female,Pakistan,21-25,Masters,Biology,to boost my skill set,1,25,Student,30.3,69.3,A-,Telenor,Prepaid,Desktop,48.2,167.6,No,In this chilla,Python,No,5,No,5,Urbun
+1/4/2022 18:06,Male,Pakistan,26-30,Masters,Natural Sciences,to boost my skill set,1,26,Employed,33.6844,73.0479,O-,Zong,Prepaid,Apna Laptop,105,186,Yes,>3 years ago,Python,No,1,Yes,0,Urbun
+1/4/2022 18:06,Male,Pakistan,31-35,Bachelors,CS/IT,Switch my field of study,8,33,Employed,24.860966,66.9905,O+,U-fone,Prepaid,Apna Laptop,78,173.736,Yes,>3 years ago,Python,Yes,2,Yes,2,Urbun
+1/4/2022 18:06,Male,Pakistan,26-30,Masters,Biology,to boost my skill set,2 years,30,Student,69.345116.,35.2,A+,Zong,Prepaid,Apna Laptop,69.5,183.5,No,In this chilla,Python,No,6,Yes,Ni jati,Urbun
+1/4/2022 18:06,Male,Pakistan,21-25,Bachelors,Enginnering,to boost my skill set,1,24.1,Student,"33.671145669433194, ",72.98702933,AB+,Mobilink,Prepaid,Apna Laptop,65.8,178,Yes,>3 years ago,Python,No,1,No,0,Rural
+1/4/2022 18:06,Male,Pakistan,26-30,Bachelors,Software Eng.,to boost my skill set,4,26,Employed,30.8138,73.4534,O+,Zong,Prepaid,Apna Laptop,68,5.6,No,>3 years ago,Python,No,3,Yes,2,Rural
+1/4/2022 18:06,Male,Pakistan,21-25,Bachelors,CS/IT,to boost my skill set,0,22,Student,31.49,74.95,A+,U-fone,Prepaid,Apna Laptop,60,176,No,<3 years ago,Python,No,1,Yes,4,Urbun
+1/4/2022 18:06,Female,Pakistan,21-25,Bachelors,Software Eng.,Switch my field of study,0,25,Unemplyed,33.7715,72.7511,B+,Zong,Prepaid,Apna Laptop,47.5,150.2,Yes,>3 years ago,Python,No,2,Yes,0,Urbun
+1/4/2022 18:06,Male,Pakistan,31-35,Masters,Enginnering,to boost my skill set,7,33,Student,33.56401,73.15805,B+,Zong,Prepaid,Apna Laptop,85,173.736,Yes,>3 years ago,Python,No,2,Yes,0,Rural
+1/4/2022 18:06,Male,Pakistan,16-20,Pre-Bachelors,CS/IT,to boost my skill set,0,19,Student,25.8258,69.3666,B+,Telenor,Prepaid,Apna Laptop,75.5,2.1,Yes,In this chilla,Python,No,4,Yes,9,Rural
+1/4/2022 18:06,Male,East,26-30,Bachelors,Natural Sciences,to boost my skill set,5,26,Student,36.66644??N,116.96486??E,B+,International,Prepaid,Apna Laptop,90.2,164.592,No,<3 years ago,Python,No,5,Yes,0,International
+1/4/2022 18:06,Male,Pakistan,26-30,Masters,CS/IT,Switch my field of study,3,26,Student,31.48,74.323,A-,Mobilink,Prepaid,Apna Laptop,56.5,175.26,No,>3 years ago,Others,No,1,Yes,2,Urbun
+1/4/2022 18:06,Male,Pakistan,26-30,Bachelors,Enginnering,Switch my field of study,1,26,Unemplyed,77.4977 E,27.2046 N,O+,Zong,Prepaid,Apna Laptop,90,188,No,<3 years ago,Python,No,5,No,3,Rural
+1/4/2022 18:06,Male,West,31-35,Masters,CS/IT,to boost my skill set,10,34,Student,N 38?? 13' 43.071,E 15?? 33' 1.018,B+,International,Prepaid,Apna Laptop,70.5,5.9,No,>3 years ago,Python,Yes,1,Yes,NO,International
+1/4/2022 18:06,Male,Pakistan,31-35,Masters,Enginnering,to boost my skill set,2.5,34,Employed,30.37,69.3,B+,Mobilink,Prepaid,Apna Laptop,78.5,155.7528,No,In this chilla,Python,No,3,Yes,2,Urbun
+1/4/2022 18:06,Male,Pakistan,21-25,Bachelors,Natural Sciences,to boost my skill set,1,24,Student,33.6844,73.0479,B+,Zong,Postpaid,Apna Laptop,52,162.5,Yes,>3 years ago,Python,No,3,Yes,0,Urbun
+1/4/2022 18:06,Female,Pakistan,21-25,Bachelors,CS/IT,to boost my skill set,0,22,Student,31.4504,31.4504,AB+,Telenor,Postpaid,Apna Laptop,55,170.18,Yes,<3 years ago,Python,No,3,Yes,1,Rural
+1/4/2022 18:07,Male,Pakistan,16-20,Bachelors,Natural Sciences,to boost my skill set,0,19.8,Student,31.2058,73.937,O+,Mobilink,Postpaid,Apna Laptop,74,173.736,No,<3 years ago,C++,No,30 mint,Yes,2,Urbun
+1/4/2022 18:07,Male,West,31-35,Bachelors,Natural Sciences,Switch my field of study,1,33,Student,60.3913,5.3221,AB+,International,Prepaid,Apna Laptop,68,167.64,No,<3 years ago,Python,Yes,1,Yes,0,International
+1/4/2022 18:07,Male,West,31-35,PhD,Enginnering,to boost my skill set,2,31,Student,45.17869,5.71479,B+,International,Prepaid,Apna Laptop,72,168.7,No,<3 years ago,Python,Yes,1,Yes,0,International
+1/4/2022 18:07,Male,Pakistan,16-20,Pre-Bachelors,CS/IT,Switch my field of study,no,22,Student,34.5,45.5,A+,Mobilink,Prepaid,Kisi ka laptop,63.5,5.7,No,In this chilla,Python,No,3,Yes,2,Rural
+1/4/2022 18:07,Male,Pakistan,21-25,Pre-Bachelors,CS/IT,to boost my skill set,1,22,Student,33.6844,73.0479,O+,Telenor,Prepaid,Apna Laptop,68.2,173.4,No,>3 years ago,Python,No,3,Yes,1,Urbun
+1/4/2022 18:07,Male,Pakistan,26-30,Masters,Enginnering,to boost my skill set,4.5,30.4,Student,"33?? 19' 60.00"" N","71?? 09' 60.00"" E",O+,U-fone,Prepaid,Apna Laptop,82.4,164.3,Yes,<3 years ago,Python,Yes,9,Yes,0,Urbun
+1/4/2022 18:07,Female,Pakistan,21-25,Bachelors,Enginnering,to boost my skill set,0,20,Student,.,123,A+,Mobilink,Prepaid,Apna Laptop,50,48,No,In this chilla,Python,No,1,Yes,8hrs,Rural
+1/4/2022 18:07,Male,Pakistan,21-25,Bachelors,CS/IT,to boost my skill set,0,23,Student,"31??42'53.6""","73??22'41.5""",AB+,Mobilink,Prepaid,Apna Laptop,53,165,Yes,>3 years ago,Python,No,1,Yes,0,Rural
+1/4/2022 18:07,Male,Pakistan,26-30,Masters,Business/Economics,to boost my skill set,3.2,30.1,Unemplyed,31.5129856,74.3374848,B+,Telenor,Prepaid,Apna Laptop,55,161.544,No,In this chilla,Python,No,5,Yes,5,Rural
+1/4/2022 18:07,Female,Pakistan,31-35,Masters,Natural Sciences,to boost my skill set,1,29,Unemplyed,Sargodha,Chakwal,B+,U-fone,Postpaid,Apna Laptop,45,58,Yes,In this chilla,Python,No,5,Yes,5,Urbun
+1/4/2022 18:07,Male,Pakistan,31-35,PhD,Enginnering,to boost my skill set,3.5,31.5,Employed,30.18327,66.996452,B-,Telenor,Prepaid,Apna Laptop,82.5,179.832,No,In this chilla,Python,Yes,3,Yes,0,Urbun
+1/4/2022 18:07,Male,Pakistan,16-20,Pre-Bachelors,CS/IT,to boost my skill set,0,20,Student,31.1487?? N,72.6812,A+,Telenor,Postpaid,Apna Laptop,67.12,164.592,Yes,In this chilla,C++,No,1,Yes,1 hours,Urbun
+1/4/2022 18:07,Male,Pakistan,21-25,Bachelors,CS/IT,to boost my skill set,0,23,Student,5.4,4.6,B+,Mobilink,Prepaid,Apna Laptop,59.5,14.224,Yes,<3 years ago,Python,No,2,Yes,0,Urbun
+1/4/2022 18:07,Female,Pakistan,21-25,Bachelors,Natural Sciences,to boost my skill set,0,21,Student,30.9709,72.4826,A+,Zong,Prepaid,Apna Laptop,58.5,154.5,No,In this chilla,Python,No,4,Yes,0,Urbun
+1/4/2022 18:07,Male,Pakistan,36-40,Masters,Others,to boost my skill set,4,38,Employed,34.76,72.57,B+,U-fone,Prepaid,Apna Laptop,70.2,13.7,No,>3 years ago,C#,Yes,1,Yes,9,Rural
+1/4/2022 18:07,Male,Pakistan,21-25,Bachelors,Enginnering,Switch my field of study,1,25,Unemplyed,30.1923029,66.9763362,O+,Telenor,Prepaid,Apna Laptop,75,188,No,In this chilla,Python,No,2,Yes,5,Urbun
+1/4/2022 18:07,Male,Pakistan,26-30,Masters,Enginnering,to boost my skill set,3 years,30,Employed,28.4838?? N, 77.0210?? E,B-,U-fone,Prepaid,Kisi ka laptop,78.8,170.5,Yes,>3 years ago,Python,No,2,Yes,6,Rural
+1/4/2022 18:07,Male,Pakistan,26-30,Bachelors,CS/IT,to boost my skill set,Less than 1 year,26,Student,0,0,A-,Mobilink,Prepaid,Apna Laptop,65 kg,66.5,No,>3 years ago,SQL,No,5,Yes,1 hour,Rural
+1/4/2022 18:07,Male,West,26-30,Bachelors,Enginnering,Switch my field of study,6,28,Unemplyed,24.4539,54.3773,B+,International,Prepaid,Apna Laptop,161,173,No,>3 years ago,Python,No,3,Yes,0,International
+1/4/2022 18:07,Female,East,26-30,Bachelors,Software Eng.,to boost my skill set,2,29,Unemplyed,78,1234,O+,International,Prepaid,Apna Laptop,70,5,No,>3 years ago,Others,Yes,3,Yes,8,International
+1/4/2022 18:07,Male,Pakistan,26-30,Bachelors,CS/IT,to boost my skill set,4,28,Student,31.5204,74.3587,B+,Telenor,Prepaid,Apna Laptop,72.5,5.9,No,>3 years ago,Python,No,2,Yes,6,Rural
+1/4/2022 18:07,Male,West,31-35,Masters,Natural Sciences,Switch my field of study,1.3,31.04,Employed,11.2558?? E,43.7696?? N,B+,International,Prepaid,Kisi ka laptop,58.1,167.64,No,In this chilla,Python,Yes,2,Yes,int,International
+1/4/2022 18:07,Male,Pakistan,36-40,Masters,Natural Sciences,to boost my skill set,2,40,Unemplyed,33.56285025,73.12779975,B+,U-fone,Prepaid,Apna Laptop,80,167.64,No,In this chilla,Python,Yes,3,Yes,3,Rural
+1/4/2022 18:07,Male,Pakistan,26-30,Masters,Mathematics,to boost my skill set,1,30,Employed,33.6844,73.0479,O+,Mobilink,Prepaid,Apna Laptop,65,167,No,>3 years ago,Python,No,1,Yes,0,Urbun
+1/4/2022 18:07,Male,Pakistan,26-30,PhD,Biology,to boost my skill set,2.5,28,Student,31.2449N ,74.2137E,B+,Mobilink,Prepaid,Apna Laptop,68.5,173,Yes,In this chilla,Python,No,3,Yes,8,Rural
+1/4/2022 18:07,Male,Pakistan,31-35,Masters,Biology,Switch my field of study,3,31,Student,34.025917,71.560134,O+,Zong,Postpaid,Apna Laptop,70,161,No,In this chilla,Python,No,1,Yes,2,Urbun
+1/4/2022 18:07,Male,Pakistan,21-25,Bachelors,Enginnering,to boost my skill set,0.5,23,Student,27.2046 N,77.4977 E,A+,Telenor,Prepaid,Apna Laptop,65,170,No,<3 years ago,Python,No,3,Yes,2,Urbun
+1/4/2022 18:07,Male,Pakistan,26-30,Masters,Biology,to boost my skill set,6.5,29,Student,32.648,74.212,O+,Telenor,Prepaid,Apna Laptop,65.5,172.72,No,<3 years ago,Python,Yes,4,Yes,0,Rural
+1/4/2022 18:07,Male,Pakistan,21-25,Pre-Bachelors,CS/IT,Switch my field of study,1,23,Student,33.60933,73.04269,B-,Mobilink,Prepaid,Apna Laptop,85,162.56,Yes,>3 years ago,Python,No,2,Yes,5,Urbun
+1/4/2022 18:07,Male,Pakistan,21-25,Pre-Bachelors,Software Eng.,to boost my skill set,0,24,Student,32.9328,72.863,A+,Telenor,Prepaid,Apna Laptop,50,170,Yes,<3 years ago,Python,No,5,Yes,5,Rural
+1/4/2022 18:08,Male,Pakistan,21-25,Bachelors,Business/Economics,to boost my skill set,0.7,25.2,Unemplyed,24.8607?? N,67.0011?? E,B+,Mobilink,Prepaid,Apna Laptop,135,185.9,Yes,In this chilla,Python,Yes,2,Yes,0,Urbun
+1/4/2022 18:08,Male,Pakistan,21-25,Pre-Bachelors,Enginnering,to boost my skill set,0,23,Employed,32.2469,72.77261,O+,Telenor,Prepaid,Desktop,75,168,No,>3 years ago,Python,No,2,Yes,1,Rural
+1/4/2022 18:08,Male,Pakistan,16-20,Pre-Bachelors,Others,to boost my skill set,1,20,Student, 30.1575?? N,71.5249?? E,A+,Telenor,Prepaid,Apna Laptop,68,182,Yes,In this chilla,Python,No,3,Yes,3,Urbun
+1/4/2022 18:08,Male,Pakistan,26-30,Masters,Natural Sciences,Switch my field of study,1,30,Employed,73.05,33.62,B+,Mobilink,Prepaid,Apna Laptop,75.45,173,No,<3 years ago,Python,Yes,1,Yes,2,Urbun
+1/4/2022 18:08,Female,Pakistan,26-30,Masters,Software Eng.,to boost my skill set,2,26,Unemplyed,73.71,73.41,A+,Zong,Prepaid,Apna Laptop,68.5,164.5,No,>3 years ago,Python,No,4,Yes,1,Rural
+1/4/2022 18:08,Male,Pakistan,16-20,Pre-Bachelors,CS/IT,to boost my skill set,0,19,Student,34.01N,71.52E,AB+,Telenor,Prepaid,Kisi ka laptop,52,160,Yes,In this chilla,Python,No,3,Yes,8,Urbun
+1/4/2022 18:08,Male,Pakistan,21-25,Bachelors,Biology,Switch my field of study,1,24,Employed,24.860966,66.990501,B+,Mobilink,Prepaid,Desktop,100,155.75,No,In this chilla,Python,No,3,Yes,0,Urbun
+1/4/2022 18:08,Male,Pakistan,21-25,Masters,Natural Sciences,to boost my skill set,1,25,Student,33.6844,73.0479,A+,Mobilink,Prepaid,Apna Laptop,60,170.688,Yes,<3 years ago,Python,No,3,Yes,2,Urbun
+1/4/2022 18:08,Male,Pakistan,21-25,Bachelors,Enginnering,Switch my field of study,1,24,Employed,24.964,67.0591,O+,U-fone,Prepaid,Apna Laptop,68,173.7,Yes,In this chilla,Python,No,3,Yes,3,Urbun
+1/4/2022 18:08,Male,Pakistan,26-30,Bachelors,Enginnering,to boost my skill set,ARTIFICIAL INTELLIGENCE/DEEP LEARNING,29,Student,34.025917,71.560135,AB+,U-fone,Prepaid,Apna Laptop,65,163.5,Yes,>3 years ago,Python,No,1,Yes,2,Urbun
+1/4/2022 18:08,Male,Pakistan,26-30,Masters,Natural Sciences,to boost my skill set,3,27,Student,30.1575?? N,71.5249?? E,O+,Mobilink,Prepaid,Apna Laptop,70,5.9,Yes,In this chilla,Python,Yes,2,Yes,5,Urbun
+1/4/2022 18:08,Male,Pakistan,21-25,Bachelors,CS/IT,to boost my skill set,1.5,23,Student,31.9765,74.2220??,A+,Mobilink,Prepaid,Apna Laptop,60.2,170.688,Yes,>3 years ago,Python,No,2,Yes,7H/week,Urbun
+1/4/2022 18:08,Female,Pakistan,21-25,Bachelors,CS/IT,to boost my skill set,working on fyp face mask detaction,25,Student,South Punjab ,Rykhan,B+,Zong,Prepaid,Apna Laptop,57kg,5.6,Yes,In this chilla,Python,No,4,Yes,Sometimes ,Urbun
+1/4/2022 18:08,Male,Pakistan,26-30,Bachelors,Software Eng.,Switch my field of study,2,26.3,Employed,31.5204,74.3587,O+,Zong,Prepaid,Kisi ka laptop,65.7,16.51,No,>3 years ago,Python,No,3,Yes,2,Urbun
+1/4/2022 18:08,Male,Pakistan,26-30,Bachelors,Biology,Switch my field of study,3.3,26.95,Employed,32.9085,73.7654,B+,Telenor,Prepaid,Apna Laptop,74,177.5,No,<3 years ago,Python,No,2.5,Yes,5,Urbun
+1/4/2022 18:08,Male,Pakistan,31-35,Masters,Biology,Switch my field of study,08 years,33,Student,31,74,A+,Mobilink,Prepaid,Apna Laptop,63,175,No,In this chilla,Python,Yes,1,Yes,5,Rural
+1/4/2022 18:08,Male,Pakistan,26-30,Bachelors,Enginnering,to boost my skill set,4,30,Employed,"29.1044?? , 70.3301?? ","29.1044?? , 70.3301?? ",B+,U-fone,Prepaid,Apna Laptop,80,180,No,>3 years ago,Python,Yes,5,Yes,3,Rural
+1/4/2022 18:08,Male,Pakistan,21-25,Bachelors,CS/IT,to boost my skill set,1,23,Student,33,73,B+,Mobilink,Prepaid,Apna Laptop,70.85,160.52,No,<3 years ago,C#,No,1,Yes,1,Urbun
+1/4/2022 18:08,Female,Pakistan,26-30,Masters,Natural Sciences,to boost my skill set,6,29,Student,31.5204??,74.3587,AB+,Zong,Prepaid,Apna Laptop,65,168,Yes,In this chilla,Python,Yes,3,Yes,5,Urbun
+1/4/2022 18:08,Male,Pakistan,31-35,Masters,Enginnering,to boost my skill set,7,33,Student,33.56401,73.15805,B+,Zong,Prepaid,Apna Laptop,85,173.736,Yes,>3 years ago,Python,No,2,Yes,0,Urbun
+1/4/2022 18:08,Male,Pakistan,21-25,Pre-Bachelors,CS/IT,to boost my skill set,0,21,Student,1.57,1.56,A+,Mobilink,Prepaid,Apna Laptop,60,5.8,No,In this chilla,Python,No,3,Yes,2,Rural
+1/4/2022 18:08,Male,West,31-35,Masters,Enginnering,to boost my skill set,8,35,Employed,51.2882674,7.291086,B+,International,Postpaid,Apna Laptop,84,173,Yes,In this chilla,Python,Yes,3,Yes,0,Urbun
+1/4/2022 18:08,Female,Pakistan,26-30,Masters,Business/Economics,to boost my skill set,4,27.5,Employed,33.68,73.04,AB+,Zong,Prepaid,Apna Laptop,46.5,170.18,No,In this chilla,Python,No,2,Yes,Sardion mn band nhi hoti,Urbun
+1/4/2022 18:08,Male,Pakistan,21-25,Bachelors,Enginnering,to boost my skill set,1,24.6,Employed,33.03763241,70.98727676,B+,Zong,Prepaid,Apna Laptop,56.61,176.7,No,In this chilla,Python,No,3,Yes,16,Rural
+1/4/2022 18:08,Male,Pakistan,26-30,Masters,Software Eng.,to boost my skill set,1,27,Unemplyed,33.738045,73.084488,B+,Zong,Prepaid,Apna Laptop,110,72,No,>3 years ago,Python,No,2,Yes,16,Rural
+1/4/2022 18:08,Male,Pakistan,26-30,Bachelors,CS/IT,to boost my skill set,1,28,Employed,33.3,73.7,O+,Telenor,Prepaid,Apna Laptop,63.5,167.64,No,>3 years ago,Python,No,3,Yes,2,Urbun
+1/4/2022 18:08,Male,Pakistan,31-35,Masters,Natural Sciences,Switch my field of study,8,34.9,Student,32.569482,70.9101,A+,U-fone,Prepaid,Apna Laptop,88,174,Yes,<3 years ago,Python,Yes,5,Yes,20,Rural
+1/4/2022 18:08,Male,Pakistan,21-25,Masters,Natural Sciences,Switch my field of study,1,22,Unemplyed,33.436462,72.017189,O+,U-fone,Prepaid,Kisi ka laptop,68,175,No,In this chilla,Python,No,1,Yes,3,Rural
+1/4/2022 18:08,Male,West,26-30,Masters,CS/IT,to boost my skill set,1,26,Unemplyed,"25.2048?? N, 55.2708?? E",Location coordinates (longitude) (float,AB+,International,Prepaid,Apna Laptop,float(65),182.88,No,>3 years ago,Python,No,3,Yes,0,International
+1/4/2022 18:09,Male,Pakistan,21-25,Masters,Business/Economics,Switch my field of study,1,25,Unemplyed,Pakistan,Longitude,B+,Mobilink,Postpaid,Kisi ka laptop,61,5.2,No,In this chilla,Python,No,3,Yes,5,Rural
+1/4/2022 18:09,Male,Pakistan,21-25,Pre-Bachelors,Enginnering,to boost my skill set,0,23,Student,34.3331,75.7139,B+,Zong,Prepaid,Kisi ka laptop,55,5.7,No,In this chilla,Others,No,1,Yes,8,Rural
+1/4/2022 18:09,Male,Pakistan,16-20,Pre-Bachelors,CS/IT,to boost my skill set,0,20,Student,27.2046?? N,77.4977?? E,B+,Mobilink,Prepaid,Apna Laptop,53,176,No,<3 years ago,Python,No,2,Yes,4,Urbun
+1/4/2022 18:09,Female,Pakistan,21-25,Bachelors,CS/IT,to boost my skill set,1,23,Unemplyed,30.533159,79.468788,AB+,Zong,Prepaid,Apna Laptop,50,1524,No,>3 years ago,Python,No,4,Yes,6,Urbun
+1/4/2022 18:09,Male,Pakistan,21-25,Masters,Others,to boost my skill set,1.2,22.9,Student,33.626057,73.071442,A+,Zong,Prepaid,Apna Laptop,7,167,No,In this chilla,Python,No,5,Yes,3,Urbun
+1/4/2022 18:09,Male,Pakistan,21-25,Pre-Bachelors,CS/IT,to boost my skill set,0,22,Student,5,7,O+,U-fone,Prepaid,Apna Laptop,48,1661.16,No,<3 years ago,Python,No,2,Yes,4,Rural
+1/4/2022 18:09,Female,West,15-Jan,Pre-Bachelors,Others,to boost my skill set,0,14.2,Student,41.1579 N 8.6291 W ,"  41.1579?? N, 8.6291?? W",B+,International,Postpaid,Apna Laptop,30.5,150.05,No,In this chilla,Python,No,10,Yes,0,International
+1/4/2022 18:09,Male,Pakistan,31-35,Bachelors,Business/Economics,Switch my field of study,7.5,32,Employed,27.2046,77.4977,A+,U-fone,Prepaid,Apna Laptop,85,14.732,Yes,In this chilla,Python,Yes,3,No,0,Urbun
+1/4/2022 18:09,Male,Pakistan,31-35,PhD,Biology,to boost my skill set,7,32,Employed,32,74,B+,U-fone,Prepaid,Apna Laptop,79,183,Yes,In this chilla,R,Yes,3,Yes,2,Urbun
+1/4/2022 18:09,Male,Pakistan,26-30,Bachelors,CS/IT,to boost my skill set,6,29,Unemplyed,30.1575,71.5249,B+,Mobilink,Prepaid,Kisi ka laptop,66,155.448,No,<3 years ago,Python,No,4,Yes,2,Urbun
+1/4/2022 18:09,Male,Pakistan,26-30,Masters,Software Eng.,to boost my skill set,0.5,28,Employed,32.265082,72.894721,AB+,Mobilink,Prepaid,Apna Laptop,84,208.28,Yes,>3 years ago,Python,No,1,Yes,1,Rural
+1/4/2022 18:09,Male,Pakistan,21-25,Bachelors,Enginnering,to boost my skill set,0,24,Student,33.9963,71.5624,B+,U-fone,Prepaid,Apna Laptop,56,160,No,In this chilla,Python,Yes,3,Yes,24/2,Urbun
+1/4/2022 18:09,Female,Pakistan,31-35,Masters,Biology,to boost my skill set,1,30.5,Unemplyed,33.738045,73.084488,O+,U-fone,Prepaid,Apna Laptop,40,158,No,<3 years ago,Python,Yes,6,Yes,0,Urbun
+1/4/2022 18:09,Female,Pakistan,31-35,Masters,CS/IT,to boost my skill set,13,31,Employed,40.7,8.8,B+,Mobilink,Prepaid,Kisi ka laptop,76.6,13.97,No,>3 years ago,Python,Yes,3,Yes,1,Urbun
+1/4/2022 18:09,Male,Pakistan,31-35,Masters,Natural Sciences,to boost my skill set,10,35,Employed,31.1505,72.6812,B+,Telenor,Prepaid,Apna Laptop,80,173,No,I don't know how to code,Python,Yes,2,Yes,no,Rural
+1/4/2022 18:09,Male,Pakistan,36-40,Masters,CS/IT,to boost my skill set,5.6,35.11,Employed,32.0747,73.7117,AB+,Mobilink,Prepaid,Apna Laptop,78.5,170.688,No,>3 years ago,Python,Yes,3,Yes,2,Urbun
+1/4/2022 18:09,Male,Pakistan,21-25,Masters,Natural Sciences,Switch my field of study,Print(Float(1.0)),Print(Float(23.0)),Unemplyed,Print(float(33.6844)),Print(float(73.049)),O-,Zong,Prepaid,Desktop,Print(float(58.0)),Print(float(172.72)),No,In this chilla,Python,No,Print(int(3)),Yes,Print(int(2)),Urbun
+1/4/2022 18:09,Female,Pakistan,21-25,Pre-Bachelors,Others,to boost my skill set,0.0 year ,22,Student,34.1688??,73.2215?? ,O+,Mobilink,Prepaid,Apna Laptop,48.0kg,152cm,No,In this chilla,Python,No,5,Yes,60,Urbun
+1/4/2022 18:09,Male,Pakistan,21-25,Bachelors,CS/IT,to boost my skill set,No,20,Student,25.4,68.26,O+,Telenor,Prepaid,Apna Laptop,53,65,No,<3 years ago,Python,No,1,Yes,12 hr,Rural
+1/4/2022 18:09,Female,Pakistan,21-25,Bachelors,CS/IT,Abhi tak pata nahi,0,25,Unemplyed,30.37,69.34,B+,U-fone,Prepaid,Apna Laptop,42,5.6,Yes,>3 years ago,Python,No,1,No,0,Urbun
+1/4/2022 18:09,Male,Pakistan,31-35,Masters,CS/IT,to boost my skill set,2.5,31,Employed,34.080647,71.19869,A+,Mobilink,Prepaid,Apna Laptop,90,1.74,Yes,In this chilla,Python,Yes,5,Yes,72,Rural
+1/4/2022 18:09,Female,Pakistan,46-60,Masters,Others,Awen,10.1,46.4,Employed,5.101898,35.742184,B+,U-fone,Prepaid,Apna Laptop,90,158,Yes,In this chilla,Python,Yes,5,Yes,1,Rural
+1/4/2022 18:09,Female,Pakistan,26-30,Masters,Enginnering,to boost my skill set,5.1,30,Employed,24.860966,66.990501,A+,Zong,Prepaid,Apna Laptop,54.5,164.5,Yes,<3 years ago,Python,No,4,Yes,1,Urbun
+1/4/2022 18:09,Male,Pakistan,21-25,Bachelors,CS/IT,to boost my skill set,1,21,Student,24.860966,66.990501,A+,Mobilink,Prepaid,Apna Laptop,52.1,172.72,No,In this chilla,Python,No,4,Yes,5,Rural
+1/4/2022 18:09,Female,Pakistan,21-25,Pre-Bachelors,Others,to boost my skill set,0,21,Student,33.68,73.04,AB+,Zong,Prepaid,Apna Laptop,48,170.18,Yes,In this chilla,Python,No,1,Yes,0,Urbun
+1/4/2022 18:09,Male,Pakistan,31-35,PhD,Biology,to boost my skill set,8,31,Unemplyed,31.8626?? N,70.9019?? E,B-,Telenor,Prepaid,Apna Laptop,85,170.6,Yes,In this chilla,Python,Yes,2,Yes,16,Urbun
+1/4/2022 18:09,Male,Pakistan,21-25,Bachelors,Statistics,to boost my skill set,0,23.4,Student,53.2734,-7.77832031,A+,Zong,Prepaid,Apna Laptop,59.5,179.832,No,In this chilla,Python,No,4,Yes,1,Rural
+1/4/2022 18:09,Male,Pakistan,31-35,Masters,Enginnering,to boost my skill set,5,32,Student,72.868835,32.923645,AB-,U-fone,Prepaid,Apna Laptop,72.5,173.73,No,In this chilla,Python,Yes,3,Yes,5,Urbun
+1/4/2022 18:10,Female,West,16-20,Pre-Bachelors,CS/IT,to boost my skill set,No experience ,16,Student,8.6291,41.1579,B+,International,Prepaid,Apna Laptop,60kg,177.8cm,Yes,I don't know how to code,Python,No,11 hr,Yes,Ohr,International
+1/4/2022 18:10,Male,Pakistan,21-25,Bachelors,CS/IT,to boost my skill set,0,22,Student,Peshawar pakistan ,Pakistan peshawar ,A+,Telenor,Prepaid,Apna Laptop,58kg,58,No,<3 years ago,Python,No,3,Yes,3,Rural
+1/4/2022 18:10,Male,Pakistan,46-60,PhD,Enginnering,to boost my skill set,40,68,Employed,34' 55.3620,45.7536,O+,Mobilink,Prepaid,Apna Laptop,68,170,Yes,>3 years ago,Others,Yes,0,Yes,1,Urbun
+1/4/2022 18:10,Female,West,26-30,Masters,Enginnering,to boost my skill set,3,28,Employed,43.5322,5.6611,AB+,International,Prepaid,Apna Laptop,65,165.1,No,>3 years ago,Javascript,No,3,Yes,0,International
+1/4/2022 18:10,Female,Pakistan,21-25,Bachelors,CS/IT,to boost my skill set,0,25,Unemplyed,25.529104,69.013573,A+,U-fone,Postpaid,Apna Laptop,46,160.02,No,<3 years ago,Others,No,2,Yes,8,Urbun
+1/4/2022 18:10,Male,East,36-40,Masters,Enginnering,to boost my skill set,3.5,36.5,Student,"39.9042?? N,",116.4074?? E,O+,International,Prepaid,Desktop,78.5,163.5,Yes,In this chilla,Others,Yes,3,Yes,0,International
+1/4/2022 18:10,Female,Pakistan,26-30,PhD,Natural Sciences,to boost my skill set,1.5,29,Employed,31.45 N,73.64  E,B+,U-fone,Prepaid,Apna Laptop,54,161.5,No,In this chilla,Python,No,3,Yes,Marzi hai wapda walon ki,Urbun
+1/4/2022 18:10,Male,Pakistan,21-25,Bachelors,Business/Economics,to boost my skill set,3,25,Employed,Karachi,Karachi,B+,Telenor,Prepaid,Apna Laptop,114,6'1,Yes,In this chilla,Others,No,0.5 hours,Yes,Nai hoti,Urbun
+1/4/2022 18:10,Female,Pakistan,21-25,Pre-Bachelors,CS/IT,to boost my skill set,0,21,Student,28.3111,70.1261,A+,Mobilink,Prepaid,Kisi ka laptop,92.4,164.592,No,In this chilla,Python,No,3,Yes,2,Urbun
+1/4/2022 18:10,Male,Pakistan,21-25,Pre-Bachelors,Enginnering,Switch my field of study,0,21,Student,34.0151,71.5249,A-,Mobilink,Postpaid,Apna Laptop,72,175,No,>3 years ago,Python,No,0,Yes,8,Rural
+1/4/2022 18:10,Male,Pakistan,31-35,Masters,Others,Abhi tak pata nahi,0,0,Unemplyed,Kpk Dir upper,Kpk Dir upper,B+,Zong,Prepaid,Apna Laptop,51,No,No,In this chilla,Python,Yes,3,Yes,2hrs,Rural
+1/4/2022 18:10,Male,West,15-Jan,Pre-Bachelors,CS/IT,to boost my skill set,2 year,11,Student,"39.3999?? N, 8.2245?? W","39.3999?? N, 8.2245?? W",A+,International,Prepaid,Apna Laptop,45,137.16,Yes,<3 years ago,Python,No,18 hours,No,Never,International
+1/4/2022 18:10,Male,Pakistan,31-35,Masters,Biology,to boost my skill set,6,31,Employed,Karachi,Karachi,A+,U-fone,Prepaid,Apna Laptop,58,170,Yes,In this chilla,Python,Yes,2,Yes,0,Urbun
+1/4/2022 18:10,Male,Pakistan,41-45,Masters,CS/IT,to boost my skill set,16.5,43,Employed,33.6323139,73.0510025,B+,Mobilink,Prepaid,Apna Laptop,87,183.1,No,>3 years ago,Python,Yes,3,Yes,2,Urbun
+1/4/2022 18:10,Male,Pakistan,21-25,Pre-Bachelors,CS/IT,Switch my field of study,0,22,Student,25.3549,69.7376,A+,Zong,Prepaid,Apna Laptop,49,1.2,No,In this chilla,Python,No,3,Yes,8,Rural
+1/4/2022 18:10,Male,Pakistan,21-25,Bachelors,Enginnering,to boost my skill set,0,25,Student,24,67,B-,U-fone,Prepaid,Apna Laptop,64,170.18,No,>3 years ago,Python,No,1,Yes,2,Urbun
+1/4/2022 18:10,Male,Pakistan,26-30,Masters,CS/IT,to boost my skill set,2,25,Employed,0,0,B+,Telenor,Prepaid,Desktop,74,"5ft 10""",Yes,>3 years ago,Javascript,No,2,Yes,0,Urbun
+1/4/2022 18:10,Male,Pakistan,31-35,Bachelors,Enginnering,to boost my skill set,2,32,Employed,73.45556,72.45568,B+,Zong,Prepaid,Kisi ka laptop,86,88,No,>3 years ago,Python,No,3,Yes,20,Rural
+1/4/2022 18:10,Male,Pakistan,21-25,Bachelors,Natural Sciences,to boost my skill set,3 Years,24,Employed,34.6133707,74.943059,AB+,Telenor,Prepaid,Apna Laptop,65,160.4,No,In this chilla,Python,No,3,Yes,1 to 2 hours a day,Rural
+1/4/2022 18:11,Male,Pakistan,26-30,Masters,CS/IT,to boost my skill set,1.4 years,25,Employed,27.2046,77.4977,O+,Mobilink,Postpaid,Apna Laptop,82,155.65,Yes,<3 years ago,Python,No,3,Yes,1,Urbun
+1/4/2022 18:11,Female,Pakistan,31-35,Masters,Biology,to boost my skill set,4,35,Student,33.626,73.071,A+,Telenor,Prepaid,Apna Laptop,46.9,158.496,No,>3 years ago,Python,No,17,Yes,2,Urbun
+1/4/2022 18:11,Female,Pakistan,26-30,Masters,Mathematics,to boost my skill set,2,29,Student,33.771542,72.751091,A+,Telenor,Prepaid,Apna Laptop,50.2,173.7,No,<3 years ago,Python,No,2,Yes,0,Urbun
+1/4/2022 18:11,Male,Pakistan,41-45,Masters,Others,to boost my skill set,2,42,Employed,27.2046,77.4977,B+,U-fone,Prepaid,Apna Laptop,70,14.478,Yes,In this chilla,Python,Yes,3,Yes,1,Urbun
+1/4/2022 18:11,Female,Pakistan,26-30,Masters,Statistics,to boost my skill set,2,26,Student,27.2,77.49,O+,Zong,Prepaid,Desktop,45,170.68,No,In this chilla,Python,No,2,Yes,3,Rural
+1/4/2022 18:11,Female,Pakistan,31-35,Masters,Business/Economics,to boost my skill set,1,34,Student,N 32?? 9,E 74?? 9.,B+,Mobilink,Prepaid,Apna Laptop,48,1.72,Yes,In this chilla,Python,No,3,Yes,6,Urbun
+1/4/2022 18:11,Female,West,21-25,Bachelors,Natural Sciences,Switch my field of study,0,24,Student,38.734802,35.467987,O+,International,Prepaid,Apna Laptop,55,170.18,No,In this chilla,Python,No,4,Yes,0,International
+1/4/2022 18:11,Female,Pakistan,31-35,Bachelors,CS/IT,to boost my skill set,5,32,Unemplyed,30.17984,66.974976,A+,Zong,Prepaid,Apna Laptop,54.5,1645.92,No,>3 years ago,Python,No,5,No,2,Urbun
+1/4/2022 18:11,Female,Pakistan,26-30,Masters,Business/Economics,Abhi tak pata nahi,0-1,26.5,Employed,73.64 East,31.45 north,A+,Mobilink,Prepaid,Apna Laptop,72,161.2,No,I don't know how to code,Python,No,3-Feb,Yes,4-5hours,Rural
+1/4/2022 18:11,Male,India,26-30,Masters,Natural Sciences,to boost my skill set,4,30,Student,"28.7334?? N, ",77.2986?? E,B+,International,Prepaid,Apna Laptop,61,168,No,In this chilla,Python,No,5,Yes,0,Rural
+1/4/2022 18:12,Male,Pakistan,31-35,Masters,CS/IT,to boost my skill set,3,32,Employed,33.657832,73.069484,AB+,Telenor,Prepaid,Desktop,55,177.8,No,<3 years ago,Python,Yes,2,Yes,Light nahi jati,Rural
+1/4/2022 18:12,Female,Pakistan,26-30,Masters,CS/IT,to boost my skill set,1,27,Unemplyed,0,0,O+,Zong,Prepaid,Apna Laptop,58,167.64,No,>3 years ago,Python,No,3 to 4 hrs,Yes,2,Urbun
+1/4/2022 18:12,Female,Pakistan,26-30,Masters,Biology,to boost my skill set,3,26,Unemplyed,31.5204,74.3587,O+,Mobilink,Prepaid,Apna Laptop,88. 8,162.56,No,In this chilla,Python,Yes,4,Yes,2,Urbun
+1/4/2022 18:12,Male,Pakistan,31-35,PhD,Natural Sciences,to boost my skill set,2,31,Student,33.66,70.06,B-,U-fone,Prepaid,Apna Laptop,65,172,No,In this chilla,Python,No,2,Yes,4,Urbun
+1/4/2022 18:12,Female,Pakistan,26-30,Bachelors,CS/IT,to boost my skill set,6,28,Unemplyed,25.396,68.3578,B+,U-fone,Prepaid,Apna Laptop,46,1.6,No,>3 years ago,Others,No,6,Yes,8,Urbun
+1/4/2022 18:12,Female,Pakistan,26-30,Masters,Natural Sciences,to boost my skill set,0,26,Unemplyed,33.6844,73.0479,O-,U-fone,Postpaid,Apna Laptop,45.5,170.18,No,In this chilla,Python,No,4,Yes,0,Urbun
+1/4/2022 18:12,Male,Pakistan,36-40,Masters,CS/IT,to boost my skill set,0 year ,37,Student,"32??57'56.6""N 70??37'24.2""","32??57'56.6""N 70??37'24.2""E",A+,U-fone,Prepaid,Apna Laptop,69.1,70.1,No,In this chilla,Python,Yes,3,Yes,36,Rural
+1/4/2022 18:12,Female,Pakistan,26-30,Masters,Natural Sciences,to boost my skill set,2.5,26,Student,33.621483,72.997116,O-,U-fone,Prepaid,Apna Laptop,58,162.56,Yes,<3 years ago,Python,No,7,Yes,2,Urbun
+1/4/2022 18:12,Male,Pakistan,26-30,Masters,Natural Sciences,to boost my skill set,1.5,27.3,Student,31.418,73.079,AB+,U-fone,Prepaid,Apna Laptop,66.5,164.5,No,I don't know how to code,Python,No,1,Yes,0,Rural
+1/4/2022 18:12,Male,Pakistan,26-30,Masters,Enginnering,to boost my skill set,5,29,Student,27.2046,77.4977,B+,Zong,Postpaid,Apna Laptop,92,175,No,<3 years ago,Python,No,2,Yes,5,Urbun
+1/4/2022 18:12,Male,Pakistan,31-35,Masters,CS/IT,to boost my skill set,2.5,31,Employed,34.080647,71.19869,A+,Mobilink,Prepaid,Apna Laptop,90,14.734,Yes,In this chilla,Python,Yes,5,Yes,72,Rural
+1/4/2022 18:12,Female,West,31-35,PhD,CS/IT,to boost my skill set,4.5,37,Unemplyed,"57??42'59.9""N "," 14??08'17.6""E",B+,International,Prepaid,Apna Laptop,65,160,Yes,In this chilla,Python,Yes,3,Yes,6,International
+1/4/2022 18:13,Male,Pakistan,21-25,Bachelors,CS/IT,to boost my skill set,2,22,Student,30.2,71.45,AB+,Zong,Postpaid,Apna Laptop,31.75,161.9,No,<3 years ago,Python,No,3,No,0,Urbun
+1/4/2022 18:13,Male,Pakistan,26-30,Masters,Natural Sciences,to boost my skill set,5,26,Employed,28.61,70.65,A+,Telenor,Postpaid,Apna Laptop,65.6,164.4,Yes,In this chilla,Python,Yes,3,Yes,5,Urbun
+1/4/2022 18:13,Male,Pakistan,21-25,Bachelors,Natural Sciences,Abhi tak pata nahi,2years,21(years),Student,Layyah,30.96,B+,Mobilink,Postpaid,Apna Laptop,67,167,No,In this chilla,Python,No,6,Yes,Kabi kabi but net slow hota hi jis ki wajh sa bohat peecha hn,Rural
+1/4/2022 18:13,Female,Pakistan,21-25,Pre-Bachelors,Business/Economics,Switch my field of study,0,22,Student,24.884082,67.080575,B+,Zong,Prepaid,Apna Laptop,64,160,Yes,In this chilla,Python,Yes,3,Yes,0,Urbun
+1/4/2022 18:13,Male,Pakistan,31-35,Masters,Others,Switch my field of study,1,32,Unemplyed,9WM6+RMP Al??pur,9WM6+RMP Al??pur,O+,Mobilink,Prepaid,Kisi ka laptop,58,170,No,In this chilla,Python,Yes,2,Yes,3,Rural
+1/4/2022 18:14,Male,West,31-35,Masters,Enginnering,to boost my skill set,10.5,10.5,Employed,55.2744,25.1972,B+,International,Prepaid,Apna Laptop,79.75,182 87,No,>3 years ago,C++,No,1,Yes,0,International
+1/4/2022 18:14,Male,Pakistan,26-30,Masters,Natural Sciences,to boost my skill set,1 year,27.5,Student,pakistan,pakistan,B+,Zong,Prepaid,Apna Laptop,92,171,No,In this chilla,Python,Yes,3,Yes,6,Urbun
+1/4/2022 18:14,Male,Pakistan,31-35,PhD,Biology,Switch my field of study,3,2017,Unemplyed,Swat kpk,Peshawar,B+,Telenor,Prepaid,Apna Laptop,80,5.8,Yes,>3 years ago,Python,Yes,3,Yes,18,Rural
+1/4/2022 18:14,Male,Pakistan,26-30,Bachelors,Enginnering,Switch my field of study,Information and communication Engineering in machine learning,25,Employed,34.25128,71.72249,AB+,Zong,Prepaid,Apna Laptop,65,170.688,No,>3 years ago,Python,No,4,Yes,10-15 hours per day,Rural
+1/4/2022 18:14,Male,West,26-30,PhD,Natural Sciences,to boost my skill set,5 years,29,Employed,51.812565,5.837226,B+,International,Prepaid,Apna Laptop,65,175,No,In this chilla,Python,No,4,Yes,Never,International
+1/4/2022 18:15,Male,West,21-25,Masters,CS/IT,to boost my skill set,1,25,Student,46.0748,11.1217,O+,International,Postpaid,Apna Laptop,75,165,Yes,>3 years ago,Python,No,3,Yes,0,International
+1/4/2022 18:15,Male,Pakistan,36-40,Bachelors,CS/IT,to boost my skill set,11.3,40.1,Employed,30.268503,71.497756,A+,Zong,Prepaid,Apna Laptop,86.34,179.83,No,>3 years ago,Python,Yes,1,Yes,3,Urbun
+1/4/2022 18:15,Male,Pakistan,41-45,Masters,Software Eng.,to boost my skill set,15,42,Employed,27.2046,77.4977,B+,Mobilink,Prepaid,Apna Laptop,75,170.688,Yes,<3 years ago,C#,Yes,16,Yes,1,Urbun
+1/4/2022 18:15,Male,Pakistan,21-25,Bachelors,Enginnering,to boost my skill set,0,22,Student,--,--,B+,Mobilink,Prepaid,Apna Laptop,70,--,No,<3 years ago,Python,No,1,Yes,0,Urbun
+1/4/2022 18:15,Male,East,16-20,Pre-Bachelors,Business/Economics,Switch my field of study,('1'),('20'),Student,23.6850?? N, 90.3563?? E,B+,International,Prepaid,Desktop,('64'),('5.10'),No,I don't know how to code,Python,No,3*,No,12*,Urbun
+1/4/2022 18:15,Male,Pakistan,26-30,Bachelors,CS/IT,to boost my skill set,0,26,Student,Dnt know,Dnt know,B+,Telenor,Prepaid,Apna Laptop,64,168,No,>3 years ago,Python,Yes,0,Yes,8hrs,Rural
+1/4/2022 18:15,Male,Pakistan,21-25,Bachelors,CS/IT,to boost my skill set,1,21,Student,24.860966,66.990501,A+,Mobilink,Prepaid,Apna Laptop,52.1,172.72,No,In this chilla,Python,No,3,Yes,5,Rural
+1/4/2022 18:16,Male,Pakistan,31-35,PhD,Natural Sciences,to boost my skill set,2,32.7,Employed,29.6902,72.5796,B+,U-fone,Prepaid,Apna Laptop,85.5,168,Yes,In this chilla,Python,Yes,2,Yes,0,Rural
+1/4/2022 18:16,Male,Pakistan,21-25,Masters,Mathematics,to boost my skill set,2 years,26,Student,Pakistan,Pakistan,O+,Zong,Prepaid,Apna Laptop,76,1.74,No,In this chilla,Python,No,5,Yes,6 hours,Rural
+1/4/2022 18:16,Male,Pakistan,21-25,Pre-Bachelors,CS/IT,to boost my skill set,0,21,Student,33.738163,72.798634,A+,Mobilink,Prepaid,Apna Laptop,60,5.8,No,In this chilla,Python,No,3,Yes,1,Rural
+1/4/2022 18:16,Male,Pakistan,26-30,Bachelors,Enginnering,to boost my skill set,3,26.5,Employed,33.62702783,73.07534349,AB+,U-fone,Prepaid,Apna Laptop,67.5,185.9,No,<3 years ago,C#,No,1,Yes,0,Urbun
+1/4/2022 18:17,Female,Pakistan,31-35,Masters,Business/Economics,to boost my skill set,0,33 years ,Unemplyed,30.268503,71.497756,O+,U-fone,Prepaid,Apna Laptop,80.2 kg ,158.496,Yes,In this chilla,Python,Yes,1,Yes,2 hours ,Urbun
+1/4/2022 18:17,Male,Pakistan,26-30,Bachelors,Enginnering,Switch my field of study,5,27,Employed,31.582045,74.329376,B+,U-fone,Prepaid,Apna Laptop,60.5,182.88,Yes,>3 years ago,Python,No,2,Yes,1,Urbun
+1/4/2022 18:17,Female,Pakistan,16-20,Pre-Bachelors,Business/Economics,to boost my skill set,No,19,Student,Nhin smjh ai,...,A+,Zong,Prepaid,Kisi ka laptop,60,.,No,In this chilla,Python,No,3,Yes,Hr hour Kay bad,Rural
+1/4/2022 18:17,Male,Pakistan,31-35,Masters,Enginnering,Switch my field of study,7,31,Employed,30.183,66.996,A+,Zong,Prepaid,Apna Laptop,60.5,172,Yes,In this chilla,Python,Yes,1,Yes,3,Urbun
+1/4/2022 18:18,Male,Pakistan,31-35,Masters,CS/IT,Switch my field of study,5,35,Employed,24.91,67.09,O+,Mobilink,Prepaid,Apna Laptop,78,174,Yes,>3 years ago,C#,No,4,Yes,3,Urbun
+1/4/2022 18:18,Male,Pakistan,26-30,Masters,Biology,to boost my skill set,Yes,29,Student,31.4504,73.135,AB+,Mobilink,Prepaid,Apna Laptop,90,180,Yes,In this chilla,Python,No,3,Yes,3hr,Urbun
+1/4/2022 18:19,Female,Pakistan,26-30,Bachelors,Business/Economics,to boost my skill set,1.3 years,30,Unemplyed,"33.5651 N, 73.0169 E","33.5651 N, 73.0169 E",B+,Zong,Prepaid,Kisi ka laptop,55.5,13.462,Yes,In this chilla,Python,No,3,Yes,4 hour,Rural
+1/4/2022 18:19,Male,Pakistan,26-30,Masters,Biology,to boost my skill set,2,28,Student,North,Latitude ,B+,Telenor,Prepaid,Apna Laptop,70,175.26,No,In this chilla,Python,No,3,Yes,6,Rural
+1/4/2022 18:19,Male,Pakistan,31-35,Bachelors,Enginnering,to boost my skill set,7.5,32,Employed,30.96,70.94,B+,U-fone,Prepaid,Apna Laptop,72,170,No,In this chilla,Python,Yes,2,Yes,4,Urbun
+1/4/2022 18:21,Male,Pakistan,16-20,Pre-Bachelors,CS/IT,to boost my skill set,0,20,Student,25.360443,68.312129,B+,Zong,Prepaid,Desktop,70.5,167.6,Yes,<3 years ago,Python,No,2,Yes,6 to 8 hours in a day,Urbun
+1/4/2022 18:21,Male,Pakistan,26-30,Bachelors,Enginnering,Abhi tak pata nahi,Fresh,24,Student,34.259,71.56,A+,Telenor,Prepaid,Apna Laptop,54,139.5,No,In this chilla,Python,No,3,Yes,18 hours,Urbun
+1/4/2022 18:22,Male,Pakistan,26-30,Bachelors,CS/IT,to boost my skill set,6.2,29,Unemplyed,30.18,71.49,B+,Mobilink,Prepaid,Kisi ka laptop,66,177.8,No,>3 years ago,Python,No,4,Yes,0,Urbun
+1/4/2022 18:22,Male,Pakistan,36-40,Masters,CS/IT,Switch my field of study,5,38,Employed,29.38720795,71.67315717,O+,Mobilink,Prepaid,Apna Laptop,84,5.1,No,<3 years ago,C#,Yes,1,Yes,0,Urbun
+1/4/2022 18:22,Male,West,31-35,Masters,Natural Sciences,to boost my skill set,Reconstruction of old images,31,Student,60.38805,5.33186,A+,International,Postpaid,Apna Laptop,63,184,No,<3 years ago,Python,Yes,3,Yes,0,International
+1/4/2022 18:23,Male,Pakistan,26-30,Bachelors,Enginnering,to boost my skill set,3,26.6,Unemplyed,31.2966,72.8891,A+,Telenor,Prepaid,Apna Laptop,68.7,178.3,No,<3 years ago,Python,No,2,Yes,0,Rural
+1/4/2022 18:23,Male,Pakistan,36-40,Bachelors,Enginnering,Switch my field of study,8,36,Employed,31.51519,74.25726,B+,U-fone,Prepaid,Kisi ka laptop,68.5,182.8,No,In this chilla,Python,Yes,1,Yes,3 hours,Urbun
+1/4/2022 18:23,Male,Pakistan,26-30,Bachelors,CS/IT,to boost my skill set,3,27,Employed,73.08289,31.38621,A+,Mobilink,Prepaid,Apna Laptop,78,173,No,<3 years ago,SQL,No,1,Yes,4,Urbun
+1/4/2022 18:24,Female,Pakistan,21-25,Bachelors,CS/IT,to boost my skill set,Kuch b ni,23,Unemplyed,Hafizabad ,Hafizabad ,A+,Mobilink,Prepaid,Apna Laptop,50,5.2,No,>3 years ago,C++,No,4,Yes,3,Urbun
+1/4/2022 18:24,Male,Pakistan,26-30,Bachelors,Natural Sciences,to boost my skill set,1.5,26,Student,30.3,69.3,O+,Mobilink,Prepaid,Apna Laptop,50,174,No,In this chilla,Python,No,4-Mar,Yes,1 min,Rural
+1/4/2022 18:25,Male,Pakistan,31-35,Masters,CS/IT,to boost my skill set,3,32,Employed,33.657832,73.069484,AB+,Telenor,Prepaid,Desktop,55,177.8,No,<3 years ago,Python,Yes,1,Yes,5,Rural
+1/4/2022 18:25,Male,Pakistan,16-20,Pre-Bachelors,Natural Sciences,to boost my skill set,0,20,Student,31.500993,74.31032,B+,Mobilink,Prepaid,Apna Laptop,64,166,No,<3 years ago,Python,No,3,Yes,4,Rural
+1/4/2022 18:26,Male,Pakistan,26-30,Bachelors,Business/Economics,Switch my field of study,1.5,27,Unemplyed,33.657832,73.069484,B+,U-fone,Prepaid,Apna Laptop,67,155. 75,No,In this chilla,Python,No,3,Yes,5,Rural
+1/4/2022 18:27,Male,Pakistan,31-35,Bachelors,Business/Economics,Switch my field of study,7,32,Employed,30.2423415,71.4775151,A+,U-fone,Prepaid,Apna Laptop,85,14.732,Yes,In this chilla,Python,Yes,3,No,0,Urbun
+1/4/2022 18:28,Male,Pakistan,26-30,Bachelors,CS/IT,to boost my skill set,6,29,Unemplyed,30.1814,71.4921,B+,Mobilink,Prepaid,Kisi ka laptop,66.5,177.8,No,>3 years ago,Python,No,5,Yes,0,Urbun
+1/4/2022 18:30,Male,Pakistan,21-25,Masters,Enginnering,to boost my skill set,4,25,Student,33.6491 N,73. 0833 E,B+,Zong,Prepaid,Apna Laptop,75,178,Yes,<3 years ago,Python,No,1,Yes,2,Rural
+1/4/2022 18:31,Male,Pakistan,26-30,Bachelors,CS/IT,to boost my skill set,1,28,Unemplyed,33.639435,73.095397,B+,Zong,Prepaid,Apna Laptop,70,14.478,No,In this chilla,Javascript,No,5,Yes,15 mints,Urbun
+1/4/2022 18:31,Female,East,26-30,Bachelors,Software Eng.,to boost my skill set,2,29,Unemplyed,N,E,O+,International,Prepaid,Apna Laptop,82,5,Yes,>3 years ago,Javascript,Yes,2,Yes,7,International
+1/4/2022 18:33,Male,West,26-30,Masters,Enginnering,to boost my skill set,1.5,28,Student,61.5240?? N,105.3188?? E,B+,International,Prepaid,Apna Laptop,85,178,No,>3 years ago,Python,No,4,Yes,0,International
+1/4/2022 18:35,Female,Pakistan,21-25,Masters,Others,Switch my field of study,No,22,Unemplyed,East ,Punjab ,B+,U-fone,Prepaid,Kisi ka laptop,48,160,No,In this chilla,Python,No,3,Yes,6 hours ,Urbun
+1/4/2022 18:41,Male,Pakistan,21-25,Bachelors,Enginnering,to boost my skill set,0,24,Unemplyed,1,2,A+,Zong,Prepaid,Apna Laptop,60,175,Yes,In this chilla,Python,No,2,Yes,0,Urbun
+1/4/2022 18:50,Male,Pakistan,26-30,Masters,Mathematics,to boost my skill set,0.5,30,Student,24.9238423,67.1267552,B+,Telenor,Postpaid,Apna Laptop,75.55,167.65,No,>3 years ago,Python,Yes,10,Yes,4,Urbun
+1/4/2022 18:54,Male,Pakistan,21-25,Bachelors,CS/IT,to boost my skill set,2,24,Employed,Lahore,lahore,AB-,Mobilink,Prepaid,Apna Laptop,70,5.8 inch,No,<3 years ago,Python,No,3,Yes,1,Rural
+1/4/2022 18:55,Male,Pakistan,26-30,Masters,Enginnering,to boost my skill set,7,28,Employed,71,34,O+,Telenor,Prepaid,Apna Laptop,70.5,178.5,Yes,In this chilla,R,Yes,4,Yes,3,Rural
+1/4/2022 18:55,Male,Pakistan,31-35,Bachelors,Enginnering,to boost my skill set,5,33,Employed,33.600538,73.13381,A+,Zong,Postpaid,Apna Laptop,83.4,172.7,Yes,>3 years ago,Python,Yes,1,Yes,1,Urbun
+1/4/2022 18:56,Male,Pakistan,21-25,Bachelors,CS/IT,to boost my skill set,0,22.8,Employed,33.541195,73.1484287,O+,Mobilink,Prepaid,Apna Laptop,60,1.68,No,>3 years ago,Python,No,0,Yes,0,Urbun
+1/4/2022 18:59,Male,Pakistan,26-30,Masters,Enginnering,to boost my skill set,2,29,Employed,34.0048??,71.5101?? ,B-,Mobilink,Prepaid,Apna Laptop,86,180,No,<3 years ago,Python,No,2,No,1,Urbun
+1/4/2022 19:02,Female,Pakistan,31-35,Masters,Mathematics,Switch my field of study,3,31,Unemplyed,33.7205,73.0405,B+,Telenor,Prepaid,Apna Laptop,54.5,161.544,Yes,In this chilla,Python,Yes,3,Yes,0,Urbun
